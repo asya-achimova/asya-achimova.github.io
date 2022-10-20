@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Asya Achimova / Site Title"
+title                    : "Asya Achimova / University of Tübingen"
 title_separator          : "-"
 name                     : &name "Asya Achimova"
-description              : &description "personal description"
+description              : &description "Postdoc at the University of Tübingen"
 url                      : "https://asya-achimova.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "asya-achimova.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "About me"
+  avatar           : "asya-achimova.jpeg"
   bio              : "My research focuses on social inferences conversation partners draw in the course of communication"
   location         : "Tübingen, Germany"
   employer         :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7826-989X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AAchimova"
   vine             :
   weibo            :
   xing             :
