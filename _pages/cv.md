@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in English linguistics and literature, Perm State University, Russia, 2007
+* M.S. Psychology (Cognitive), Rutgers University, USA, 2011
+* Ph.D Psychology (Cognitive), Rutgers University, USA, 2014
 
 Work experience
 ======
