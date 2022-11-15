@@ -46,17 +46,20 @@ Achimova, A., Syrett, K., Musolino, J., & Déprez, V. (2017). Children’s devel
 
 Achimova, A., Staroverov, P., Déprez, V. & Musolino, J. Pair-list answers in naive speakers and professional linguists. In Arkadiev, P.M., Kapitonov, I.S., Lander, Y.A., Rakchilina, E.V., Tatevosov, S.G. (Eds.) <i> Donum semanticum: Opera linguistica et logica in honorem Barbarae Partee a discipulis amicisque Rossicis oblata </i> p. 21 – 35. Moscow: [Jaziki slavyanskoy kultury] Languages of slavic culture. <a href="http://asya-achimova.github.io/files/2015_Achimova_et_al_Naive_speakers_professional_linguists.pdf">pdf</a>.
 
+**2014**
+
+Achimova, A., Déprez, V., Musolino, J. What makes pair-list answers available: an experimental approach. In LaCara, N., Fainleib, L. & Park, Y. (Eds.) <i>NELS 41: Proceedings of the 41st Annual Meeting of the North East Linguistic Society</i>, Amherst, MA.: GLSA. <a href="http://asya-achimova.github.io/files/2014_Achimova_et_al_What_makes_pair-list_answers_available.pdf">pdf</a>.
  
 **2013**
 
 Achimova, A., Crosby, C., Syrett, K., Déprez, V., & Musolino, J. (2013). Which account of wh-/quantifier interaction should everyone adopt? A new take on a classic developmental puzzle. In <i>37th Annual Boston University Conference on Language Development</i> (pp. 1-12). Cascadilla Press. <a href="http://asya-achimova.github.io/files/2013_Achimova_et_al_Which_account_wh_quantifier.pdf">pdf</a>.
 
-Achimova, A., Déprez, V., Musolino, J. What makes pair-list answers available: an experimental approach. In LaCara, N., Fainleib, L. & Park, Y. (Eds.) <i>NELS 41: Proceedings of the 41st Annual Meeting of the North East Linguistic Society</i>, Amherst, MA.: GLSA. <a href="http://asya-achimova.github.io/files/2015_Achimova_et_al_What_makes_pair-list_answers_available.pdf">pdf</a>.
+
 
 
 **2008**
 
-Achimova, A. Verb Innovations in Spontaneous Speech of Children. In T. Marinis, A. Papangeli, & V. Stojanovik. (Eds.) <i>Proceedings of the Child Language seminar 2007 – 30th Anniversary </i>, p.4 - 14. Reading, UK. <a href="http://asya-achimova.github.io/files/2008_Verb_innovations.pdf">
+Achimova, A. Verb Innovations in Spontaneous Speech of Children. In T. Marinis, A. Papangeli, & V. Stojanovik. (Eds.) <i>Proceedings of the Child Language seminar 2007 – 30th Anniversary </i>, p.4 - 14. Reading, UK. <a href="http://asya-achimova.github.io/files/2008_Verb_innovations.pdf">pdf</a>.
 
 **2004**
 
