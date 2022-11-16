@@ -5,49 +5,30 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-**2022**
+**University of Tübingen**
 
 Cognitive modeling (practicum) 
 
-Language Learnability: Theoretical and Computational Perspectives (seminar)
+Language Learnability: Theoretical and Computational Perspectives (seminar co-taught with Prof. Martin Butz)
 
-**2021**
-Typical and atypical language development. Seminar co-taught with Prof. Martin Butz
+Typical and atypical language development (seminar co-taught with Prof. Martin Butz)
+ 
+Social interactions (online course) (seminar co-taught with Prof. Martin Butz)
 
-Cognitive modeling: Practicum (online course) Summer semester 2021
+Natural language and event representations (seminar co-taught with Christian Stegemann and Prof. Martin Butz)
 
-** 2020 **
+Conceptual spaces (seminar co-taught with Christian Stegemann and Prof. Martin Butz)
 
-Cognitive modeling: Practicum (online course) 
+** University of Leipzig **
 
-Social interactions (online course). Seminar co-taught with Dr. Sarah Fabi and Prof. Martin Butz
+Academic skills for Linguists. B.A. course 
 
-** 2019 **
-
-Natural language and event representations. Seminar co-taught with Christian Stegemann and Prof. Martin Butz
-
-Conceptual spaces. Seminar co-taught with Christian Stegemann and Prof. Martin Butz
-
-** 2016 **
-
-Academic skills for Linguists. B.A. course Winter
-
-** 2015 **
-
-Bilingualism and second language acquisition. M.A. course Summer 
+Bilingualism and second language acquisition. M.A. course 
 
 Experimental methods in Linguistics. Graduate seminar. Co-taught with Dr. Peter Staroverov (University of Leipzig)
 
-** 2009 - 2013 **
+** Rutgers **
 
 Cognition Lab 
-
-** 2008 **
 
 Russian 101
