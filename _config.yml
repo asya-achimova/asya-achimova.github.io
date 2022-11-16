@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Asya Achimova / University of Tübingen"
+title                    : "Asya Achimova"
 title_separator          : "-"
 name                     : &name "Asya Achimova"
 description              : &description "Postdoc at the University of Tübingen"
