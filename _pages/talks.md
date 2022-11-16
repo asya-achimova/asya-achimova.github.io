@@ -21,7 +21,8 @@ Achimova, A., Musolino, J., Pasquinelli, R., Butz, M.V., & B. Landau.  Semantic 
 
 Achimova, A., & M. Beukman. Ambiguity remains a rare skill for learning about others even when stimuli carry social relevance. Paper presented at KogWis 2022: 5th Biannual Conference of the German Society for Cognitive Science. Freiburg, Germany. September 7, 2022
 
-Achimova, A., Musolino, J., Pasquinelli, R., Butz, M.V., & B. Landau. Understanding of linguistic scales  in speakers with Williams Syndrome. Flash talk and poster presented at the 44th Annual Meeting of the Cognitive Science Society. Hybrid conference, Toronto, Canada. July 29, 2022 <a href="http://asya-achimova.github.io/files/2022_slides_Achimova_et_al_Williams_Syndrome_CogSci2022.pdf">pdf</a>.
+Achimova, A., Musolino, J., Pasquinelli, R., Butz, M.V., & B. Landau. Understanding of linguistic scales  in speakers with Williams Syndrome. Flash talk and poster presented at the 44th Annual Meeting of the Cognitive Science Society. Hybrid conference, Toronto, Canada. July 29, 2022 
+<a href="http://asya-achimova.github.io/files/2022_slides_Achimova_et_al_Williams_Syndrome_CogSci2022.pdf">pdf</a>.
 
 **2021**
 
