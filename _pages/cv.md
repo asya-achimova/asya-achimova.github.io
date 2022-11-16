@@ -9,24 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="http://asya-achimova.github.io/files/Achimova_cv.pdf">Full cv</a>
+
 Education
 ======
 * B.A. in English linguistics and literature, Perm State University, Russia, 2007
 * M.S. Psychology (Cognitive), Rutgers University, USA, 2011
 * Ph.D Psychology (Cognitive), Rutgers University, USA, 2014
 
+Research interests
+======
+Computational modeling of pragmatic reasoning, ambiguity resolution, quantifier scope, experimental linguistics, atypical language development, first and second language acquisition
+
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - present: Postdoctoral fellow
+  * University of Tübingen, Germany
+  * Research Training Group "Ambiguity: Production and Perception"
+  * Neuro-Cognitive Modeling Group
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016 - 2018: Visiting scholar
+  * Wayne State University, Detroit
+
+* 2014 - 2016: Lecturer (50%)
+  * University of Leipzig
+  * Institute of Linguistics
+
+* 2009 - 2013: Teaching assistant
+  * Rutgers University
+  * Psychology Department
+
+* 2008 - 2009: Russian Language Instructor
+  * Rutgers University
+
 Skills
 ======
 * Skill 1
@@ -38,22 +53,16 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+  
+Service 
 ======
 * Currently signed in to 43 different slack teams
