@@ -38,9 +38,9 @@ Work experience
 Fellowships and awards
 ======
 
-Equal opportunities grant to female researchers working during the pandemic (1.000 \euro). 2021
+Equal opportunities grant to female researchers working during the pandemic (1.000 $\euro$). 2021
 Athene-Program of the University of Tübingen: grant supporting early career female
-researchers (20.000 e) 
+researchers (20.000 $\euro$) 
 Paula Menyuk Travel Award for conference expenses, awarded at BUCLD 38. 2013
 Paula Menyuk Travel Award for conference expenses, awarded at BUCLD 38. 2012
 Undergraduate fellowship for seniors for academic excellence. 2006
