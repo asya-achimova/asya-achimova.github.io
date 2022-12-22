@@ -11,8 +11,7 @@ redirect_from:
 
 <a href="http://asya-achimova.github.io/files/Achimova_cv.pdf">Full cv</a>
 
-<object data=
-"http://asya-achimova.github.io/files/Achimova_cv.pdf" 
+<embed src="http://asya-achimova.github.io/files/Achimova_cv.pdf" type="application/pdf">
                 width="800" 
                 height="500"> 
 
