@@ -28,6 +28,7 @@ img {
   padding-left: 20px;
   padding-right: 20px;
   max-width: 650px;
+  min-width: 650px;
   text-align: justify;
 }
   </style>
