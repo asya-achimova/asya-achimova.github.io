@@ -35,18 +35,6 @@ img {
   <body>
     <div class="container">
       <div class="text">
-        <h1>Ambiguity in language and communication</h1>
-        <p> Ambiguity is a ubiquitous feature of human language and communication. Studying how listeners understand ambiguous utterances and how speakers chooose such utterances can reveal what factors play a role in speech production and comprehension. The following projects show different facets of ambiguity in my work.</p>
-      </div>
-      <div class="image">
-        <figure>
-        <img src="http://asya-achimova.github.io/images/duck.png">
-        <figcaption>Logo of Multiple Addressing Workshop. Artist: Tanja Russita</figcaption>
-      </figure>
-      </div>
-    </div>
-    <div class="container">
-      <div class="text">
         <h1>Inferring priors</h1>
         <p> This research project concerns how understanding language relies on background beliefs of the listener and whether these beliefs reveal themselves in the interpretations. I approach this topic from both experimental and modeling perspectives. Together with Gregory Scontras, Christian Stegemann-Philipps, Johannes Lohmann, and Martin Butz we developed a Rational Speech Act formalism to simulate the inference of priors upon observing a choice of an object in a signaling game.
         </p>
