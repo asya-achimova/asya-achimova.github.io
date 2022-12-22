@@ -15,6 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Dissertation
+======
+Resolving wh-quantifier ambiguities: Integrating theoretical and experimental perspectives. 
+<a href="http://asya-achimova.github.io/files/Achimova_Dissertation_2014.pdf">pdf</a>
+
+Advisors: Julien Musolino & Viviane Déprez
+
 **2022**
 
 Achimova, Asya, Stegemann-Philipps, C., Winkler, S., and M.V. Butz. (to appear). Anaphoric reference in descriptions of surprising events. <i> Proceedings of Sinn und Bedeutung 26 </i> 1(1). <a href="http://asya-achimova.github.io/files/2022_Achimova_et_al_Anaphoric_reference.pdf">pdf</a>.
