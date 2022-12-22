@@ -11,6 +11,11 @@ redirect_from:
 
 <a href="http://asya-achimova.github.io/files/Achimova_cv.pdf">Full cv</a>
 
+<object data=
+"http://asya-achimova.github.io/files/Achimova_cv.pdf" 
+                width="800" 
+                height="500"> 
+
 Education
 ======
 * B.A. in English linguistics and literature, Perm State University, Russia, 2007
