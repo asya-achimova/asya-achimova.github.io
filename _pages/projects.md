@@ -26,6 +26,8 @@ img {
 .text {
   font-size: 14px;
   padding-left: 20px;
+  padding-right: 20px;
+  max-width: 400px;
 }
   </style>
   <body>
