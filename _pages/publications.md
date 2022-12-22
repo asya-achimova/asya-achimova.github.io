@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Dissertation
-======
-Resolving wh-quantifier ambiguities: Integrating theoretical and experimental perspectives. 
+**Dissertation**
+
+Resolving wh-quantifier ambiguities: Integrating theoretical and experimental perspectives. May 2014.
 <a href="http://asya-achimova.github.io/files/Achimova_Dissertation_2014.pdf">pdf</a>
 
 Advisors: Julien Musolino & Viviane Déprez
