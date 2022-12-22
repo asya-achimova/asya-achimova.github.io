@@ -27,14 +27,27 @@ img {
   font-size: 14px;
   padding-left: 20px;
   padding-right: 20px;
-  max-width: 400px;
+  max-width: 650px;
+  text-align: justify;
 }
   </style>
   <body>
     <div class="container">
       <div class="text">
-        <h1>Ambiguity as a strategic tool</h1>
-        <p> Ambiguity in natural language is a useful feature. My main research project concerns how understanding language relies on background beliefs of the listener and whether these beliefs reveal themselves in the interpretations. I approach this topic from both experimental and modeling perspectives. Together with Gregory Scontras, Christian Stegemann-Philipps, Johannes Lohmann, and Martin Butz we developed a Rational Speech Act formalism to simulate the inference of priors upon observing a choice of an object in a signaling game.
+        <h1>Ambiguity in language and communication</h1>
+        <p> Ambiguity is a ubiquitous feature of human language and communication. Studying how listeners understand ambiguous utterances and how speakers chooose such utterances can reveal what factors play a role in speech production and comprehension. The following projects show different facets of ambiguity in my work.</p>
+      </div>
+      <div class="image">
+        <figure>
+        <img src="http://asya-achimova.github.io/images/Logo_tubingen_russita3.png">
+        <figcaption>Logo of Multiple Addressing Workshop. Artist: Tanja Russita</figcaption>
+      </figure>
+      </div>
+    </div>
+    <div class="container">
+      <div class="text">
+        <h1>Inferring priors</h1>
+        <p> This research project concerns how understanding language relies on background beliefs of the listener and whether these beliefs reveal themselves in the interpretations. I approach this topic from both experimental and modeling perspectives. Together with Gregory Scontras, Christian Stegemann-Philipps, Johannes Lohmann, and Martin Butz we developed a Rational Speech Act formalism to simulate the inference of priors upon observing a choice of an object in a signaling game.
         </p>
         <p>We further investigate how shared beliefs can be discovered in the process of chooosing and interpreting ambiguous utterances. Here, we investigate the phenomenon of indiretness and show how indirect utterances allow speakers to navigate complex communication goals. This project aims to explore how communication contributes to maintaing of social bonds</p>
       </div>
