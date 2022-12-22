@@ -40,7 +40,7 @@ img {
       </div>
       <div class="image">
         <figure>
-        <img src="http://asya-achimova.github.io/images/Logo_tubingen_russita3.png" height="200px">
+        <img src="http://asya-achimova.github.io/images/Logo_tubingen_russita3.png" height="100px" width="100px">
         <figcaption>Logo of Multiple Addressing Workshop. Artist: Tanja Russita</figcaption>
       </figure>
       </div>
