@@ -23,12 +23,20 @@ Resolving wh-quantifier ambiguities: Integrating theoretical and experimental pe
 **2023**
 
 Achimova, A., Scontras, G., Eisemann, E., and M.V. Butz. (2023). Active iterative social inference in multi-trial signaling games. <i>Open Mind</i>, accepted.
+<a href="https://osf.io/yn4wd/?view_only=a723e0e89688475ea022cf59d2e3e9df">data and code</a>
+
 
 **2022**
 
-Achimova, Asya, Stegemann-Philipps, C., Winkler, S., and M.V. Butz. (2022). Anaphoric reference in descriptions of surprising events. <i> Gutzmann, D. & S. Repp (Eds.), Proceedings of Sinn und Bedeutung 26 </i>, p. 20 - 34. <a href="http://asya-achimova.github.io/files/2022_Achimova_et_al_Anaphoric_reference.pdf">pdf</a>.
+Achimova, Asya, Stegemann-Philipps, C., Winkler, S., and M.V. Butz. (2022). Anaphoric reference in descriptions of surprising events. In Gutzmann, D. & S. Repp (Eds.), <i>Proceedings of Sinn und Bedeutung 26 </i>, p. 20 - 34. <a href="http://asya-achimova.github.io/files/2022_Achimova_et_al_Anaphoric_reference.pdf">pdf</a>, 
+<a href="https://cognitivemodeling.shinyapps.io/shinyanaphor/">shiny app</a>,
+<a href="https://osf.io/u43jn/?view_only=1aec01b2249c419eb59af0d448d68dbb">data and code</a>
+
+
 
 Achimova, A., Scontras, G., Stegemann-Philipps, C., Lohmann, J., & Butz, M. V. (2022). Learning about others: Modeling social inference through ambiguity resolution. <i>Cognition</i>. 218, 104862. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027721002833">link to paper</a>
+<a href="https://github.com/CognitiveModeling/priorinference">R package and data</a>
+
 
 **2021**
 
