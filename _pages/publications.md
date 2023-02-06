@@ -20,9 +20,13 @@ Dissertation
 Resolving wh-quantifier ambiguities: Integrating theoretical and experimental perspectives. May 2014.
 <a href="http://asya-achimova.github.io/files/Achimova_Dissertation_2014.pdf">pdf</a>
 
+**2023**
+
+Achimova, A., Scontras, G., Eisemann, E., and M.V. Butz. (2023). Active iterative social inference in multi-trial signaling games. <i>Open Mind</i>, accepted.
+
 **2022**
 
-Achimova, Asya, Stegemann-Philipps, C., Winkler, S., and M.V. Butz. (to appear). Anaphoric reference in descriptions of surprising events. <i> Proceedings of Sinn und Bedeutung 26 </i> 1(1). <a href="http://asya-achimova.github.io/files/2022_Achimova_et_al_Anaphoric_reference.pdf">pdf</a>.
+Achimova, Asya, Stegemann-Philipps, C., Winkler, S., and M.V. Butz. (2022). Anaphoric reference in descriptions of surprising events. <i> Gutzmann, D. & S. Repp (Eds.), Proceedings of Sinn und Bedeutung 26 </i>, p. 20 - 34. <a href="http://asya-achimova.github.io/files/2022_Achimova_et_al_Anaphoric_reference.pdf">pdf</a>.
 
 Achimova, A., Scontras, G., Stegemann-Philipps, C., Lohmann, J., & Butz, M. V. (2022). Learning about others: Modeling social inference through ambiguity resolution. <i>Cognition</i>. 218, 104862. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027721002833">link to paper</a>
 
