@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
+## 2023
+
+Dietrich, S., Achimova, A., Butz, M.V., & B. Rolke. Was it the bear or the lion? Evaluating different disambiguation
+cues in pronoun interpretation. Poster presented at TeaP 2023 (Conference of Experimental Psychologists), Trier, Germany. March 29, 2023
+
 ## 2022
 
 Achimova, A., Musolino, J., Pasquinelli, R., Butz, M.V., & B. Landau.  Semantic meaning of scalar terms in speakers with Williams Syndrome. Paper presented at _XPrag 2022: 9<sup>th</sup> Experimental Pragmatics Conference_. Pavia, Italy. September 22, 2022
