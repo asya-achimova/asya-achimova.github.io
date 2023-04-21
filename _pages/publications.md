@@ -22,7 +22,8 @@ Resolving wh-quantifier ambiguities: Integrating theoretical and experimental pe
 
 **2023**
 
-Achimova, A., Scontras, G., Eisemann, E., and M.V. Butz. (2023). Active iterative social inference in multi-trial signaling games. <i>Open Mind</i>, accepted.
+Achimova, A., Scontras, G., Eisemann, E., and M.V. Butz. (2023). Active iterative social inference in multi-trial signaling games. <i>Open Mind</i>, 7.
+<a href="http://asya-achimova.github.io/files/2023_Achimova_et_al_Active_social_inference.pdf">pdf</a>
 <a href="https://osf.io/yn4wd/?view_only=a723e0e89688475ea022cf59d2e3e9df">data and code</a>
 
 
