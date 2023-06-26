@@ -17,6 +17,8 @@ author_profile: true
 
 ## 2023
 
+Achimova, A., van Os, M., Knoblich, S., Demberg, V., & M.V. Butz. Predictability in production and perception of anaphoric references. Paper accepted for XPrag 2023 : Xth biennial meeting of Experimental Pragmatics. Paris. Upcoming
+
 Dietrich, S., Achimova, A., Butz, M.V., & B. Rolke. Was it the bear or the lion? Evaluating different disambiguation
 cues in pronoun interpretation. Poster presented at TeaP 2023 (Conference of Experimental Psychologists), Trier, Germany. March 29, 2023
 
