@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## University of Osnabrück
+
+* Introduction to statistics and data analysis (lecture + tutorial) 
+* Atypical language development (seminar)
+
 ## University of Tübingen
 
 * Cognitive modeling (practicum) 

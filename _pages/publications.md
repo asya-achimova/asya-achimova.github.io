@@ -20,6 +20,13 @@ Dissertation
 Resolving wh-quantifier ambiguities: Integrating theoretical and experimental perspectives. May 2014.
 <a href="http://asya-achimova.github.io/files/Achimova_Dissertation_2014.pdf">pdf</a>
 
+**Maniscripts**
+
+Achimova, A., Franke, M, and M.V. Butz. (submitted). Indirectness as a path to common ground management
+<a href="http://asya-achimova.github.io/files/2023_Indirectness_Achimova_Franke_Butz.pdf">pdf</a>
+<a href="https://psyarxiv.com/26j3t/">PsyArXiv</a>
+<a href="https://tinyurl.com/indirectnessPaper">data and code</a>
+
 **2023**
 
 Achimova, A., Scontras, G., Eisemann, E., and M.V. Butz. (2023). Active iterative social inference in multi-trial signaling games. <i>Open Mind</i>, 7.
