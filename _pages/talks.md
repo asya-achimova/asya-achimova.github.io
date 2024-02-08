@@ -17,7 +17,7 @@ author_profile: true
 
 ## 2024
 
-Achimova, A.,  van Os, M., Demberg, V., & M.V. Butz. Event predictability affects production of anaphoric references. Paper to be presented at _{DGfS Annual Meeting 2024}. Work group: Naturalistic approaches to reference_. Bochum. (upcoming)
+Achimova, A.,  van Os, M., Demberg, V., & M.V. Butz. Event predictability affects production of anaphoric references. Paper to be presented at _DGfS Annual Meeting 2024. Work group: Naturalistic approaches to reference_. Bochum. (upcoming)
 
 ## 2023
 
