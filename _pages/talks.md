@@ -15,9 +15,13 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
+## 2024
+
+Achimova, A.,  van Os, M., Demberg, V., & M.V. Butz. Event predictability affects production of anaphoric references. Paper to be presented at _{DGfS Annual Meeting 2024}. Work group: Naturalistic approaches to reference_. Bochum. (upcoming)
+
 ## 2023
 
-Achimova, A. Two models of strategic ambiguity. Keynote presentation. _Computational Cognition Conference 2023_. Upcoming
+Achimova, A. Two models of strategic ambiguity. Keynote presentation. _Computational Cognition Conference 2023_. Osnabrück. October 9, 2023
 
 Achimova, A., van Os, M., Knoblich, S., Demberg, V., & M.V. Butz. Predictability in production and perception of anaphoric references. Paper presented at _XPrag 10<sup>th</sup>_ : Xth biennial meeting of Experimental Pragmatics. Paris. September 22, 2023
 
