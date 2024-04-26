@@ -17,7 +17,9 @@ author_profile: true
 
 ## 2024
 
-Achimova, A.,  van Os, M., Demberg, V., & M.V. Butz. Event predictability affects production of anaphoric references. Paper to be presented at _DGfS Annual Meeting 2024. Work group: Naturalistic approaches to reference_. Bochum. (upcoming)
+Achimova, A., Franke, M., & M.V. Butz. Probing the state of common ground through indirectness. Paper presented at the conference _Common Ground in linguistics: from its construction to its role in mapping meaning_. Paris, Nanterre. April 25, 2024
+
+Achimova, A.,  van Os, M., Demberg, V., & M.V. Butz. Event predictability affects production of anaphoric references. Paper to be presented at _DGfS Annual Meeting 2024. Work group: Naturalistic approaches to reference_. Bochum. February 29, 2024
 
 ## 2023
 

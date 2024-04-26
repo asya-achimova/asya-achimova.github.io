@@ -27,6 +27,11 @@ Achimova, A., Franke, M, and M.V. Butz. (submitted). Indirectness as a path to c
 <a href="https://psyarxiv.com/26j3t/">PsyArXiv</a>
 <a href="https://tinyurl.com/indirectnessPaper">data and code</a>
 
+**2024**
+
+Achimova, A., Ebert-Rohleder, M., Geiger, L., Klenk, J., Reid, M., Vollstedt, T., Zirker, A. (in press). Ambiguity in Discourse: The Tübingen Interdisciplinary Corpus of  Ambiguity Phenomena. In Ilaria Fiorentini, I. & Zanchi, C. (Eds.) <i>Vagueness, ambiguity, and all the rest. Linguistic and pragmatic approaches</i>. John Benjamins.
+<a href="http://asya-achimova.github.io/files/2024_Achimova_et_al_tincap.pdf">pdf</a>
+
 **2023**
 
 Achimova, A., Scontras, G., Eisemann, E., and M.V. Butz. (2023). Active iterative social inference in multi-trial signaling games. <i>Open Mind</i>, 7.
@@ -36,7 +41,7 @@ Achimova, A., Scontras, G., Eisemann, E., and M.V. Butz. (2023). Active iterativ
 
 **2022**
 
-Achimova, Asya, Stegemann-Philipps, C., Winkler, S., and M.V. Butz. (2022). Anaphoric reference in descriptions of surprising events. In Gutzmann, D. & S. Repp (Eds.), <i>Proceedings of Sinn und Bedeutung 26 </i>, p. 20 - 34. <a href="http://asya-achimova.github.io/files/2022_Achimova_et_al_Anaphoric_reference.pdf">pdf</a>, 
+Achimova, A., Stegemann-Philipps, C., Winkler, S., and M.V. Butz. (2022). Anaphoric reference in descriptions of surprising events. In Gutzmann, D. & S. Repp (Eds.), <i>Proceedings of Sinn und Bedeutung 26 </i>, p. 20 - 34. <a href="http://asya-achimova.github.io/files/2022_Achimova_et_al_Anaphoric_reference.pdf">pdf</a>, 
 <a href="https://cognitivemodeling.shinyapps.io/shinyanaphor/">shiny app</a>,
 <a href="https://osf.io/u43jn/?view_only=1aec01b2249c419eb59af0d448d68dbb">data and code</a>
 
