@@ -12,6 +12,7 @@ author_profile: true
 
 ## University of Tübingen
 
+* Cognition in context (seminar co-taught with Prof. Martin Butz)
 * Cognitive modeling (practicum) 
 * Language Learnability: Theoretical and Computational Perspectives (seminar co-taught with Prof. Martin Butz)
 * Typical and atypical language development (seminar co-taught with Prof. Martin Butz)
