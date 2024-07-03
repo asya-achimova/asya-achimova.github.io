@@ -22,8 +22,8 @@ Resolving wh-quantifier ambiguities: Integrating theoretical and experimental pe
 
 **Manuscripts**
 
-Achimova, A., Franke, M, and M.V. Butz. (submitted). Indirectness as a path to common ground management
-<a href="http://asya-achimova.github.io/files/2023_Indirectness_Achimova_Franke_Butz.pdf">pdf</a>
+Achimova, A., Franke, M, and M.V. Butz. (submitted). The alignment model of indirect communication.
+<a href="http://asya-achimova.github.io/files/2024_Indirectness_Achimova_Franke_Butz.pdf">pdf</a>
 <a href="https://psyarxiv.com/26j3t/">PsyArXiv</a>
 <a href="https://tinyurl.com/indirectnessPaper">data and code</a>
 
