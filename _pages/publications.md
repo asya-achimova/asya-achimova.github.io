@@ -32,6 +32,10 @@ Achimova, A., Franke, M, and M.V. Butz. (submitted). The alignment model of indi
 Achimova, A., Ebert-Rohleder, M., Geiger, L., Klenk, J., Reid, M., Vollstedt, T., Zirker, A. (in press). Ambiguity in Discourse: The Tübingen Interdisciplinary Corpus of  Ambiguity Phenomena. In Ilaria Fiorentini, I. & Zanchi, C. (Eds.) <i>Vagueness, ambiguity, and all the rest. Linguistic and pragmatic approaches</i>. John Benjamins.
 <a href="http://asya-achimova.github.io/files/2024_Achimova_et_al_tincap.pdf">pdf</a>
 
+Achimova, A., van Os, M., Demberg, V., & Butz, M. V. (2024). Interpreting implausible event descriptions under noise. In <i>Proceedings of the Annual Meeting of the Cognitive Science Society</i>> (Vol. 46).
+<a href="http://asya-achimova.github.io/files/2024_CogSci_Achimova_et_al_Referring_expressions.pdf">pdf</a>, 
+<a href="https://osf.io/rb35e/?view_only=171008361d7b4a2ba182aad774fcd9c9">data and code</a>
+
 **2023**
 
 Achimova, A., Scontras, G., Eisemann, E., and M.V. Butz. (2023). Active iterative social inference in multi-trial signaling games. <i>Open Mind</i>, 7.
