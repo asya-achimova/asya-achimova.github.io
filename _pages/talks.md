@@ -17,9 +17,9 @@ author_profile: true
 
 ## 2024
 
-Achimova, A., Franke, M., & M.V. Butz. Production and interpretation of indirect utterances. Paper to be presented at the _5th Experimental Pragmatics in Italy Conference_. Venice. September 27, 2024.
+Achimova, A., Franke, M., & M.V. Butz. Production and interpretation of indirect utterances. Paper presented at the _5th Experimental Pragmatics in Italy Conference_. Venice. September 27, 2024.
 
-Achimova, A.,  van Os, M., Demberg, V., & M.V. Butz. Interpreting implausible event descriptions under noise. Poster to be presented at Annual Meeting of the Cognitive Science Society_. Rotterdam. July 25, 2024.  
+Achimova, A.,  van Os, M., Demberg, V., & M.V. Butz. Interpreting implausible event descriptions under noise. Poster to be presented at the _Annual Meeting of the Cognitive Science Society_. Rotterdam. July 25, 2024.  
 <a href="http://asya-achimova.github.io/files/Achimova_et_al_speech_under_noise.pdf">poster</a>.
 
 Achimmova, A., Franke, M., & M.V. Butz. Inferring the meaning of indirect utterances. Paper presented at the _Linguistics of Political Discourse_ Summer School. Graz, Austria. July 2, 2024
