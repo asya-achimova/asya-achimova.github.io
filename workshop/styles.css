@@ -4,6 +4,8 @@ div.menu {background-color: white; position: sticky; top: 0px; z-index: 999; tex
 
 a.menuitem {font-family: Arial, Helvetica; text-decoration: none; border-style: solid; padding: 5px; color: darkblue;}
 
+a.anchor {scroll-margin-top: 50px;}
+
 div.content {background-color: white; text-align: left; width: 800px; height: 2500px; padding: 5px 20px 10px 20px; margin: 0px;}
 
 table {width: 100%;}
