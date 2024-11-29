@@ -6,6 +6,38 @@
     <meta http-equiv=Content-Type content="text/html; charset=utf-8">
     <link href="styles.css" type=text/css rel=stylesheet>
 
+    <!-- prettier-ignore -->
+    <script>
+		(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${
+		c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
+        ({key: "AIzaSyBO-1i8uhn4qfBYrlIojOs61BW2_GohLeY", v: "weekly"});
+
+		// Initialize and add the map
+		let map;
+		async function initMap() {
+		  // The location
+		  const position = { lat: 48.51933757686845, lng: 9.05057798112306 };
+		  // Request needed libraries.
+		  //@ts-ignore
+		  const { Map } = await google.maps.importLibrary("maps");
+		  const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+
+		  map = new Map(document.getElementById("map"), {
+			zoom: 15,
+			center: position,
+			mapId: "tuebingen_map_id",
+		  });
+		  // The marker
+		  const marker = new AdvancedMarkerElement({
+			map: map,
+			position: position,
+			title: "Schoss Hohentübingen",
+		  });
+		}
+		
+		initMap();
+    </script>
+		
 </head>
 
 <body>
@@ -13,7 +45,7 @@
 <center>
 
 <div class="menu">
-	<p></p>
+	<p/>
 	<a class="menuitem" href="#main">Home</a>
 	<a class="menuitem" href="#venue">Venue</a>
 	<a class="menuitem" href="#organizers">Organizers</a>
@@ -22,6 +54,7 @@
 	<a class="menuitem" href="#dates">Important dates</a>
 	<a class="menuitem" href="#registration">Registration</a>
 	<a class="menuitem" href="#program">Program</a>
+	<a class="menuitem" href="#location">Location</a>
 </div>
 
 <div class="content">
@@ -36,8 +69,8 @@ January 9-10, 2025
 <a class="anchor" name="venue"></a><h3>Venue:</h3>
 <p>
 <a name="organizers"></a>
-Tübingen University, Tübingen, Germany<br/>
-Address
+University of Tübingen<br/>
+Fürstenzimmer, <a href="#location">Schloss Hohentübingen</a>, Burgsteige 11, 72070 Tübingen, Germany <a href="#location"><img width=16 src="gmap.png"/></a>
 </p>
 
 <h3>Organizers:</h3>
@@ -104,6 +137,12 @@ Workshop: January 9-10, 2025
 
 <a class="anchor" name="program"></a><h3>Program:</h3>
 <p>TBA</p>
+
+<a class="anchor" name="location"></a><h3>Location:</h3>
+<p>Fürstenzimmer, Schloss Hohentübingen, Burgsteige 11, 72070 Tübingen, Germany</p>
+<div id="map"></div>
+<p/>
+<img id="view" src="schloss.jpg"/>
 
 </div>
 

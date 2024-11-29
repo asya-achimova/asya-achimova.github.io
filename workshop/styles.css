@@ -6,7 +6,7 @@ a.menuitem {font-family: Arial, Helvetica; text-decoration: none; border-style: 
 
 a.anchor {scroll-margin-top: 50px;}
 
-div.content {background-color: white; text-align: left; width: 800px; height: 2500px; padding: 5px 20px 10px 20px; margin: 0px;}
+div.content {background-color: white; text-align: left; width: 800px; padding: 5px 20px 10px 20px; margin: 0px;}
 
 table {width: 100%;}
 
@@ -19,4 +19,8 @@ h2 {font-family: Arial, Helvetica}
 h3 {font-family: Arial, Helvetica}
 
 p {font-family: Arial, Helvetica}
+
+#map {height: 400px;}
+
+#view {width: 100%;}
 
