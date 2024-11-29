@@ -29,6 +29,9 @@ Achimova, A., Franke, M, and M.V. Butz. (submitted). The alignment model of indi
 
 **2024**
 
+Butz, M. V., Mittenbühler, M., Schwöbel, S., Achimova, A., Gumbsch, C., Otte, S., & S. Kiebel (2024). Contextualizing predictive minds. <i>Neuroscience & Biobehavioral Reviews</i>, 168, 105948.
+<a href="https://doi.org/10.1016/j.neubiorev.2024.105948">open access</a>
+
 Achimova, A., Ebert-Rohleder, M., Geiger, L., Klenk, J., Reid, M., Vollstedt, T., Zirker, A. (2024). Ambiguity in Discourse: The Tübingen Interdisciplinary Corpus of  Ambiguity Phenomena. In Ilaria Fiorentini, I. & Zanchi, C. (Eds.) <i>Vagueness, ambiguity, and all the rest. Linguistic and pragmatic approaches</i>. p. 84 -- 108. John Benjamins.
 <a href="http://asya-achimova.github.io/files/2024_Achimova_et_al_tincap.pdf">pdf</a>
 
