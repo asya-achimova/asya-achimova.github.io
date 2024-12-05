@@ -1,26 +1,19 @@
 body {background-color: lightgray; padding: 0px; margin: 0px; text-align: center;}
-
 div.menu {background-color: white; position: sticky; top: 0px; z-index: 999; text-align: center; height: 30px; width: 840px; height: 50px; padding-top: 5px;}
-
 a.menuitem {font-family: Arial, Helvetica; text-decoration: none; border-style: solid; padding: 5px; color: darkblue;}
-
 a.anchor {scroll-margin-top: 50px;}
-
 div.content {background-color: white; text-align: left; width: 800px; padding: 5px 20px 10px 20px; margin: 0px;}
-
 table {width: 100%;}
-
 td {text-align: center;}
-
 img.photo {width: 150px; border-radius: 75px;}
-
 h2 {font-family: Arial, Helvetica}
-
 h3 {font-family: Arial, Helvetica}
-
 p {font-family: Arial, Helvetica}
-
 #map {height: 400px;}
-
 #view {width: 100%;}
+table.program {border: solid; border-width: 0.5px;}
+th {background-color: lightblue; padding-top: 7px; padding-bottom: 7px;}
+td.time {border-top: solid; border-right: solid; border-width: 1px; width: 100px; text-align: left; padding-left: 10px; padding-top: 5px; padding-bottom: 5px;}
+td.talk {border-top: solid; border-width: 1px; text-align: left; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;}
+tr.break {background-color: lightgray;}
 
