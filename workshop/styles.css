@@ -1,8 +1,8 @@
 body {background-color: lightgray; padding: 0px; margin: 0px; text-align: center;}
-div.menu {background-color: white; position: sticky; top: 0px; z-index: 999; text-align: center; height: 30px; width: 890px; height: 50px; padding-top: 5px;}
+div.menu {background-color: white; position: sticky; top: 0px; z-index: 999; text-align: center; height: 30px; width: 940px; height: 50px; padding-top: 5px;}
 a.menuitem {font-family: Arial, Helvetica; text-decoration: none; border-style: solid; padding: 5px; color: darkblue;}
 a.anchor {scroll-margin-top: 50px;}
-div.content {background-color: white; text-align: left; width: 850px; padding: 5px 20px 10px 20px; margin: 0px;}
+div.content {background-color: white; text-align: left; width: 900px; padding: 5px 20px 10px 20px; margin: 0px;}
 table {width: 100%;}
 td {text-align: center;}
 img.photo {width: 150px; border-radius: 75px;}
