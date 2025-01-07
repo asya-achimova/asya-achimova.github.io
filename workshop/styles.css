@@ -6,6 +6,7 @@ div.content {background-color: white; text-align: left; width: 900px; padding: 5
 table {width: 100%;}
 td {text-align: center; vertical-align: top;}
 img.photo {width: 150px; border-radius: 75px;}
+img.smallphoto {width: 50px; border-radius: 25px; float: right;}
 h2 {font-family: Arial, Helvetica}
 h3 {font-family: Arial, Helvetica}
 p {font-family: Arial, Helvetica}
@@ -16,4 +17,5 @@ th {background-color: lightblue; padding-top: 7px; padding-bottom: 7px;}
 td.time {border-top: solid; border-right: solid; border-width: 1px; width: 17%; text-align: left; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px;}
 td.talk {border-top: solid; border-width: 1px; text-align: left; padding-left: 10px; padding-right: 10px; padding-top: 7px; padding-bottom: 7px;}
 tr.break {background-color: lightgray;}
+p.abstract {text-align: justify;}
 
