@@ -20,7 +20,7 @@ Dissertation
 Resolving wh-quantifier ambiguities: Integrating theoretical and experimental perspectives. May 2014.
 <a href="http://asya-achimova.github.io/files/Achimova_Dissertation_2014.pdf">pdf</a>
 
-** Manuscripts **
+**Manuscripts**
 Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. Event plausibility modulates production and comprehension of referential expressions. <i>Under review</i>
 
 **2025**

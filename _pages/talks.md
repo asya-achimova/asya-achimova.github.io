@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## 2025
-Presuppositions in discourse. <i>Introduction to rhetoric</i>, Utrecht University. April 16, 2025
+Achimova, A. Presuppositions in discourse. <i>Introduction to rhetoric</i>, Utrecht University. April 16, 2025
 
 Achimova, A. The effect of event predictability on production and interpretation of anaphoric references. <i>Multimodal Language Department</i>, Max Planck Institute for Psycholinguistics. April 15, 2025
 
