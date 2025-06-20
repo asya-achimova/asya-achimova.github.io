@@ -20,12 +20,15 @@ Dissertation
 Resolving wh-quantifier ambiguities: Integrating theoretical and experimental perspectives. May 2014.
 <a href="http://asya-achimova.github.io/files/Achimova_Dissertation_2014.pdf">pdf</a>
 
-**Manuscripts**
+** Manuscripts **
+Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. Event plausibility modulates production and comprehension of referential expressions. <i>Under review</i>
 
-Achimova, A., Franke, M, and M.V. Butz. (submitted). The alignment model of indirect communication.
-<a href="http://asya-achimova.github.io/files/2024_Indirectness_Achimova_Franke_Butz.pdf">pdf</a>
-<a href="https://psyarxiv.com/26j3t/">PsyArXiv</a>
-<a href="https://tinyurl.com/indirectnessPaper">data and code</a>
+**2025**
+
+Achimova, A., Franke, M, and M.V. Butz. (2025). The alignment model of indirect communication.
+<a href="https://doi.org/10.1371/journal.pone.0323839">open access</a>
+<a href="http://asya-achimova.github.io/files/2025_Indirectness_Achimova_Franke_Butz.pdf">pdf</a>
+<a href="https://osf.io/khr2j/?view_only=86a0546483354ef49ad37c58e2cb4f0f">data and code</a>
 
 **2024**
 

@@ -15,6 +15,17 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
+## 2025
+Presuppositions in discourse. <i>Introduction to rhetoric</i>, Utrecht University. April 16, 2025
+
+Achimova, A. The effect of event predictability on production and interpretation of anaphoric references. <i>Multimodal Language Department</i>, Max Planck Institute for Psycholinguistics. April 15, 2025
+
+Achimova, A. A neo-Gricean account of indirect communication. <i>Experimental linguistics talk series</i>, Utrecht University. April 14, 2025
+
+Achimova, A., Peters, B., Çapar, S.C., & P. König. Persuasion without accountability: the case of projection inferences. Flash-talk to be presented at the Workshop ``Combating misinformation in the digital age''. Tübingen, Germany. April 2, 2025
+
+Achimova, A., Franke, M., & M.V. Butz. Indirectness as a path to common ground management. Paper presented at the Workshop ``Background beliefs in the construction of meaning''. Tübingen, Germany. January 10, 2025.
+
 ## 2024
 
 Achimova, A., Franke, M., & M.V. Butz. Production and interpretation of indirect utterances. Paper presented at the _5th Experimental Pragmatics in Italy Conference_. Venice. September 27, 2024.
