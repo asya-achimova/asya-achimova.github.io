@@ -12,19 +12,20 @@ author_profile: true
 
 ## University of Tübingen
 
-* Cognition in context (seminar co-taught with Prof. Martin Butz)
+* Communication systems across species
+* Cognition in context 
 * Cognitive modeling (practicum) 
-* Language Learnability: Theoretical and Computational Perspectives (seminar co-taught with Prof. Martin Butz)
-* Typical and atypical language development (seminar co-taught with Prof. Martin Butz)
-* Social interactions (online course) (seminar co-taught with Prof. Martin Butz)
-* Natural language and event representations (seminar co-taught with Christian Stegemann and Prof. Martin Butz)
-* Conceptual spaces (seminar co-taught with Christian Stegemann and Prof. Martin Butz)
+* Language Learnability: Theoretical and Computational Perspectives 
+* Typical and atypical language development 
+* Social interactions (online course) 
+* Natural language and event representations 
+* Conceptual spaces 
 
 ## University of Leipzig
 
-* Academic skills for Linguists. B.A. course 
-* Bilingualism and second language acquisition. M.A. course 
-* Experimental methods in Linguistics. Graduate seminar. Co-taught with Dr. Peter Staroverov (University of Leipzig)
+* Academic skills for Linguists. 
+* Bilingualism and second language acquisition. 
+* Experimental methods in Linguistics. 
 
 ## Rutgers
 * Cognition Lab 

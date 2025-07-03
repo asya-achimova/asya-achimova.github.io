@@ -36,13 +36,13 @@ img {
     <div class="container">
       <div class="text">
         <h1>Indirect communication</h1>
-        <p> Under what circumstances would you prefer to say that the election outcome was interesting rather than amazing, even if you are truly excited about it? We have developed a probabilistic model of indirect utterances where speakers choose utterances not only to maximize successful information transmission (what your opinion actually is) but also to avoid possible conflict of opinions with the listener. 
+        <p> Under what circumstances would you prefer to say that the election outcome was interesting rather than amazing, even if you are truly excited about it? We have developed a probabilistic model of indirect utterances where speakers choose utterances not only to maximize successful information transmission (what your opinion actually is) but also to avoid possible conflict of opinions with the listener. See the full text in <a href="https://doi.org/10.1371/journal.pone.0323839">PLOS One</a>.
         </p>
         <p>This project contributes to our understanding of meaning as emerging in conversation. In our case, we show that the same word ''interesting'' could be interpreted positively or negatively depending on the prior conversation context. We now investigate whether the tendency to use indirect utterances is stable across cultures by comparing German and English speakers. </p>
       </div>
       <div class="image">
         <img src="http://asya-achimova.github.io/files/speaker_trial.png">
-        <figcaption>Sample trial from Achimova et al. (2025)/</figcaption>
+        <figcaption>Sample trial from Achimova et al. (2025)</figcaption>
       </div>
     </div>
     <div class="container">
@@ -73,6 +73,9 @@ img {
         <h1>Williams Syndrome</h1>
         <p> Individuals with Williams Syndrome display a rare cognitive profile: it combines severe spatial and numerical deficits and grammatically complex, fluent language. The nature of pragmatic skills displayed by speakers with Williams Syndrome remains debated. In this project, we investigate how these speakers understand utterances with quantifiers and other scalar terms. Our goal is to investigate whether individuals with WS have abstract semantic and pragmatic representations. This project is done in collaboration with Barbara Landau (Johns Hopkins University), Rennie Pasquinelli (Johns Hopkins University), Julien Musolino (Rutgers University), and Martin Butz (University of Tübingen).
         </p>
+        <p>
+          More broadly, the project contributes to our understanding of the architecture of the human mind. We discuss our findings in light of modularity of the mind and show how robustness under deficit--one of the hallmarks of modularity--manifest itself in semantic and pragmatic skills of people with Williams Syndrome.
+        </p>
       </div>
       <div class="image">
         <figure>
@@ -84,7 +87,9 @@ img {
     <div class="container">
       <div class="text">
         <h1>Verbal irony</h1>
-        <p> Together with Prof. Gerhard Jäger we investigate what cognitive skills are necessary for understanding verbal irony. This project is part of a newly funded Collaborative Research Center "Common Ground" at the University of Tübingen. We turn to language development to find out to what extent Theory of Mind, cognitive control, and counterfactual reasoning predict irony comprehension. We also use tools from probabilistic modeling to build a computational model of irony comrehension. 
+        <p> Together with Prof. Gerhard Jäger we investigate what cognitive skills are necessary for understanding verbal irony. This project is part of a newly funded Collaborative Research Center <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">Common Ground</a>  at the University of Tübingen. We turn to language development to find out to what extent Theory of Mind, cognitive control, and counterfactual reasoning predict irony comprehension. We also use tools from probabilistic modeling to build a computational model of irony comrehension. 
+        </p>
+        <p> Please check open positions for this project at the <a href="https://linguistlist.org/issues/36/1935/">Linguist List</a>. Positions in other projects projects are available at the <a href="https://uni-tuebingen.de/en/university/careers/job-vacancies/">University of Tübingen job registry</a>
         </p>
       </div>
       <div class="image">
