@@ -38,7 +38,7 @@ img {
         <h1>Indirect communication</h1>
         <p> Under what circumstances would you prefer to say that the election outcome was interesting rather than amazing, even if you are truly excited about it? We have developed a probabilistic model of indirect utterances where speakers choose utterances not only to maximize successful information transmission (what your opinion actually is) but also to avoid possible conflict of opinions with the listener. See the full text in <a href="https://doi.org/10.1371/journal.pone.0323839">PLOS One</a>.
         </p>
-        <p>This project contributes to our understanding of meaning as emerging in conversation. In our case, we show that the same word ''interesting'' could be interpreted positively or negatively depending on the prior conversation context. We now investigate whether the tendency to use indirect utterances is stable across cultures by comparing German and English speakers. </p>
+        <p>This project contributes to our understanding of meaning as emerging in conversation. In our case, we show that the same word "interesting" could be interpreted positively or negatively depending on the prior conversation context. We now investigate whether the tendency to use indirect utterances is stable across cultures by comparing German and English speakers. </p>
       </div>
       <div class="image">
         <img src="http://asya-achimova.github.io/files/speaker_trial.png">
@@ -47,7 +47,7 @@ img {
     </div>
     <div class="container">
       <div class="text">
-        <h1>Inferring priors</h1>
+        <h1>Role of priors in disambiguation</h1>
         <p> This research project concerns how understanding language relies on background beliefs of the listener and whether these beliefs reveal themselves in the interpretations. I approach this topic from both experimental and modeling perspectives. Together with Gregory Scontras, Christian Stegemann-Philipps, Johannes Lohmann, and Martin Butz we developed a Rational Speech Act formalism to simulate the inference of priors upon observing a choice of an object in a signaling game.
         </p>
         <p>We further investigate how shared beliefs can be discovered in the process of chooosing and interpreting ambiguous utterances. Here, we investigate the phenomenon of indiretness and show how indirect utterances allow speakers to navigate complex communication goals. This project aims to explore how communication contributes to maintaing of social bonds</p>
@@ -74,7 +74,7 @@ img {
         <p> Individuals with Williams Syndrome display a rare cognitive profile: it combines severe spatial and numerical deficits and grammatically complex, fluent language. The nature of pragmatic skills displayed by speakers with Williams Syndrome remains debated. In this project, we investigate how these speakers understand utterances with quantifiers and other scalar terms. Our goal is to investigate whether individuals with WS have abstract semantic and pragmatic representations. This project is done in collaboration with Barbara Landau (Johns Hopkins University), Rennie Pasquinelli (Johns Hopkins University), Julien Musolino (Rutgers University), and Martin Butz (University of Tübingen).
         </p>
         <p>
-          More broadly, the project contributes to our understanding of the architecture of the human mind. We discuss our findings in light of modularity of the mind and show how robustness under deficit--one of the hallmarks of modularity--manifest itself in semantic and pragmatic skills of people with Williams Syndrome.
+          More broadly, the project contributes to our understanding of the architecture of the human mind. We discuss our findings in light of modularity of the mind and show how robustness under deficit (one of the hallmarks of modularity) manifest itself in semantic and pragmatic skills of people with Williams Syndrome.
         </p>
       </div>
       <div class="image">
