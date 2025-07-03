@@ -35,6 +35,18 @@ img {
   <body>
     <div class="container">
       <div class="text">
+        <h1>Indirect communication</h1>
+        <p> Under what circumstances would you prefer to say that the election outcome was interesting rather than amazing, even if you are truly excited about it? We have developed a probabilistic model of indirect utterances where speakers choose utterances not only to maximize successful information transmission (what your opinion actually is) but also to avoid possible conflict of opinions with the listener. 
+        </p>
+        <p>This project contributes to our understanding of meaning as emerging in conversation. In our case, we show that the same word ''interesting'' could be interpreted positively or negatively depending on the prior conversation context. We now investigate whether the tendency to use indirect utterances is stable across cultures by comparing German and English speakers. </p>
+      </div>
+      <div class="image">
+        <img src="http://asya-achimova.github.io/files/speaker_trial.png">
+        <figcaption>Sample trial from Achimova et al. (2025)/</figcaption>
+      </div>
+    </div>
+    <div class="container">
+      <div class="text">
         <h1>Inferring priors</h1>
         <p> This research project concerns how understanding language relies on background beliefs of the listener and whether these beliefs reveal themselves in the interpretations. I approach this topic from both experimental and modeling perspectives. Together with Gregory Scontras, Christian Stegemann-Philipps, Johannes Lohmann, and Martin Butz we developed a Rational Speech Act formalism to simulate the inference of priors upon observing a choice of an object in a signaling game.
         </p>
@@ -67,6 +79,17 @@ img {
         <img src="http://asya-achimova.github.io/files/WSdrawing.png">
         <figcaption>Examples of drawings performed by individuals with WS and typically developing children (Landau & Hoffman, 2005)</figcaption>
       </figure>
+      </div>
+    </div>
+    <div class="container">
+      <div class="text">
+        <h1>Verbal irony</h1>
+        <p> Together with Prof. Gerhard Jäger we investigate what cognitive skills are necessary for understanding verbal irony. This project is part of a newly funded Collaborative Research Center "Common Ground" at the University of Tübingen. We turn to language development to find out to what extent Theory of Mind, cognitive control, and counterfactual reasoning predict irony comprehension. We also use tools from probabilistic modeling to build a computational model of irony comrehension. 
+        </p>
+      </div>
+      <div class="image">
+        <img src="http://asya-achimova.github.io/files/irony_panda.jpg">
+        <figcaption>https://www.pinterest.com/pin/147211481548194246/</figcaption>
       </div>
     </div>
   </body>
