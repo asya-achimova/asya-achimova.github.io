@@ -17,7 +17,11 @@ author_profile: true
 
 ## 2025
 
-Peters, B., Çapar, S.S., König, P., & A. Achimova. The weight of words: Credibility of projected content depends on presupposition trigger type and prior knowledge. Poster to be presented at XPrag 2025. Cambridge, UK. <a href="http://asya-achimova.github.io/files/2025_achimova_presuppositions_xprag.pdf">poster</a>
+Peters, B., Çapar, S.S., König, P., & A. Achimova. The weight of words: Credibility of projected content depends on presupposition trigger type and prior knowledge. Poster to be presented at <i>XPrag 2025</i>. Cambridge, UK. <a href="http://asya-achimova.github.io/files/2025_achimova_presuppositions_xprag.pdf">poster</a>
+
+Achimova, A., Messner, P., M.V. Butz, \& D. Wildgruber. The election outcome was interesting! Strategic indirectness in a cross-cultural perspective. Paper presented at the <i>Biannual conference of the German Cognitive Science Society</i>, KogWis 2025. Bochum, Germany. September 3, 2025.
+
+Peters, B., Çapar, S.C., König, P., \& A. Achimova. Inferring the truth: a psycholinguistic look into direct and accommodated evidence. Paper presented at the <i>Biannual conference of the German Cognitive Science Society</i>, KogWis 2025. Bochum, Germany. September 1, 2025.
 
 
 Achimova, A. Presuppositions in discourse. <i>Introduction to rhetoric</i>, Utrecht University. April 16, 2025
