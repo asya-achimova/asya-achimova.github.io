@@ -23,6 +23,8 @@ Achimova, A., Messner, P., M.V. Butz, & D. Wildgruber. The election outcome was 
 
 Peters, B., Çapar, S.C., König, P., & A. Achimova. Inferring the truth: a psycholinguistic look into direct and accommodated evidence. Paper presented at the <i>Biannual conference of the German Cognitive Science Society</i>, KogWis 2025. Bochum, Germany. September 1, 2025.
 
+Dietrich, S., Achimova, A., Butz, M.V., Seibold, V., & B. Rolke. The Bear or the Lion – Who Did It? The Role of Verbs and Adjectives in Pronoun Resolution. Poster presented at the <i>Biannual conference of the German Cognitive Science Society</i>, KogWis 2025. Bochum, Germany. September 2, 2025. Best poster award.
+
 
 Achimova, A. Presuppositions in discourse. <i>Introduction to rhetoric</i>, Utrecht University. April 16, 2025
 

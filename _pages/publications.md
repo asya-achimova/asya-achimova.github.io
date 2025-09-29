@@ -21,7 +21,13 @@ Resolving wh-quantifier ambiguities: Integrating theoretical and experimental pe
 <a href="http://asya-achimova.github.io/files/Achimova_Dissertation_2014.pdf">pdf</a>
 
 **Manuscripts**
+
 Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. Event plausibility modulates production and comprehension of referential expressions. <i>Under review</i>
+
+Fröhlich, M., Jäger, G., & A. Achimova. Rethinking Ambiguity Across Species. <i>Under review</i>
+
+Achimova, A., Musolino, J., Pasquinelli, R., & B. Landau. Logic and felicity in the face of intellectual disability: Linguistic scales and Williams Syndrome. <i>Under review</i>
+
 
 **2025**
 
