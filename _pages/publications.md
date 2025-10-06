@@ -24,12 +24,12 @@ Resolving wh-quantifier ambiguities: Integrating theoretical and experimental pe
 
 Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. Event plausibility modulates production and comprehension of referential expressions. <i>Under review</i>
 
-Fröhlich, M., Jäger, G., & A. Achimova. Rethinking Ambiguity Across Species. <i>Under review</i>
-
 Achimova, A., Musolino, J., Pasquinelli, R., & B. Landau. Logic and felicity in the face of intellectual disability: Linguistic scales and Williams Syndrome. <i>Under review</i>
 
 
 **2025**
+
+Fröhlich, M., Jäger, G., & A. Achimova. Rethinking Ambiguity Across Species. <i>Neuroscience & Biobehavioral Reviews</i>, accepted.
 
 Achimova, A., Franke, M, and M.V. Butz. (2025). The alignment model of indirect communication.
 <a href="https://doi.org/10.1371/journal.pone.0323839">open access</a>
