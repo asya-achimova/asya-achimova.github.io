@@ -17,6 +17,8 @@ author_profile: true
 
 ## 2025
 
+Rygaev, I., Butz, A., & A. Achimova. RSA model of referential expression production and comprehension under noise.  Poster at the <i>Computational Psycholinguistics Meeting 2025 </i>. Utrecht, Netherlands. December 18-19, 2025.
+
 Peters, B., Çapar, S.S., König, P., & A. Achimova. The weight of words: Credibility of projected content depends on presupposition trigger type and prior knowledge. Poster to be presented at <i>XPrag 2025</i>. Cambridge, UK. <a href="http://asya-achimova.github.io/files/2025_achimova_presuppositions_xprag.pdf">poster</a>
 
 Achimova, A., Messner, P., M.V. Butz, & D. Wildgruber. The election outcome was interesting! Strategic indirectness in a cross-cultural perspective. Paper presented at the <i>Biannual conference of the German Cognitive Science Society</i>, KogWis 2025. Bochum, Germany. September 3, 2025.
@@ -25,6 +27,8 @@ Peters, B., Çapar, S.C., König, P., & A. Achimova. Inferring the truth: a psyc
 
 Dietrich, S., Achimova, A., Butz, M.V., Seibold, V., & B. Rolke. The Bear or the Lion – Who Did It? The Role of Verbs and Adjectives in Pronoun Resolution. Poster presented at the <i>Biannual conference of the German Cognitive Science Society</i>, KogWis 2025. Bochum, Germany. September 2, 2025. Best poster award.
 
+
+Rygaev, I., Demberg, V., Butz, A., & A. Achimova. The influence of event predictability on production and comprehension of referential expressions. Talk at the international conference <i>Mismatches in anaphoric relations (RED 25)</i>. Graz, Austria. May 29-30, 2025.
 
 Achimova, A. Presuppositions in discourse. <i>Introduction to rhetoric</i>, Utrecht University. April 16, 2025
 

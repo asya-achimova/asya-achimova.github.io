@@ -12,6 +12,7 @@ author_profile: true
 
 ## University of Tübingen
 
+* The social lens of perception
 * Communication systems across species
 * Cognition in context 
 * Cognitive modeling (practicum) 
