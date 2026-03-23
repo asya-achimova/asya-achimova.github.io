@@ -7,38 +7,6 @@
     <link href="styles.css" type="text/css" rel="stylesheet"/>
 	<link rel="shortcut icon" href="belief.png" />
 	 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-
-    <!-- prettier-ignore -->
-    <script>
-		(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${
-		c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
-        ({key: "AIzaSyBO-1i8uhn4qfBYrlIojOs61BW2_GohLeY", v: "weekly"});
-
-		// Initialize and add the map
-		let map;
-		async function initMap() {
-		  // The location
-		  const position = { lat: 48.51933757686845, lng: 9.05057798112306 };
-		  // Request needed libraries.
-		  //@ts-ignore
-		  const { Map } = await google.maps.importLibrary("maps");
-		  const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
-
-		  map = new Map(document.getElementById("map"), {
-			zoom: 15,
-			center: position,
-			mapId: "tuebingen_map_id",
-		  });
-		  // The marker
-		  const marker = new AdvancedMarkerElement({
-			map: map,
-			position: position,
-			title: "Schoss Hohentübingen",
-		  });
-		}
-		
-		initMap();
-    </script>
 		
 </head>
 
@@ -57,6 +25,7 @@
 	<a class="menuitem" href="#registration">Registration</a>
 	<a class="menuitem" href="#program">Program</a>
 	<a class="menuitem" href="#location">Location</a>
+	<a class="menuitem" href="#gallery">Gallery</a>
 </div>
 
 <div class="content">
@@ -188,11 +157,52 @@ Workshop: January 9-10, 2025
 
 <a class="anchor" name="location"></a><h3>Location:</h3>
 <p>Fürstenzimmer, Schloss Hohentübingen, Burgsteige 11, 72070 Tübingen, Germany <a href="https://www.google.com/maps/dir/Hotel+DOMIZIL+T%C3%BCbingen/Schlo%C3%9F+Hohent%C3%BCbingen,+Burgsteige,+T%C3%BCbingen/@48.5197372,9.0523173,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4799fad2276769e7:0x7a657f7103d18869!2m2!1d9.0592011!2d48.5183847!1m5!1m1!1s0x4799e5a008e2d40f:0x29941be5ade9db23!2m2!1d9.050578!2d48.5193111!3e2?entry=ttu&g_ep=EgoyMDI1MDEwMS4wIKXMDSoASAFQAw%3D%3D" target="_blank" title="Directions from the hotel"><img width="16" src="gmap.png"/></a></p>
-<div id="map"></div>
+<!-- replace with screenshot-->
+<img id="view" src="location.png">
 <p/>
 <img id="view" src="schloss.jpg"/>
 
+<a class="anchor" name="gallery"></a><h3>Gallery:</h3>
+
+<div class="gallery">
+<img src="tu-beliefs-14.jpg">
+<img src="tu-beliefs-11.jpg">
+<img src="tu-beliefs-17.jpg">
+<img src="tu-beliefs-19.jpg">
+<img src="tu-beliefs-20.jpg">
+<img src="tu-beliefs-23.jpg">
+<img src="tu-beliefs-25.jpg">
+<img src="tu-beliefs-59.jpg">
+<img src="tu-beliefs-27.jpg">
+<img src="tu-beliefs-29.jpg">
+<img src="tu-beliefs-30.jpg">
+<img src="tu-beliefs-35.jpg">
+<img src="tu-beliefs-55.jpg">
+<img src="tu-beliefs-10.jpg">
+<img src="tu-beliefs-46.jpg">
+<img src="tu-beliefs-49.jpg">
+<img src="tu-beliefs-52.jpg">
+<img src="tu-beliefs-54.jpg">
+<img src="tu-beliefs-41.jpg">
+<img src="tu-beliefs-60.jpg">
+<img src="tu-beliefs-64.jpg">
+<img src="tu-beliefs-66.jpg">
 </div>
+
+<style>
+.gallery img{
+width:287px;
+margin:5px;
+transition:0.3s;
+}
+
+.gallery img:hover{
+transform:scale(1.4);
+}
+</style>
+
+<p class="credits"> Photography by <a href="https://natasha-korotkova.github.io/"> Natasha Korotkova</a></p>
+
 
 </center>
  
