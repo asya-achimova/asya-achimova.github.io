@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
+## 2026
+
+Achimova, A. Navigating controversial topics in interpersonal communication: an exper-
+imental study. <i> Symposium Talk presented at the 2026 Tagung experimentell arbeitender
+Psycholog:innen (TeaP 2026) <i>, Tübingen, Germany. March 18, 2026.
+
 ## 2025
 
 Rygaev, I., Butz, A., & A. Achimova. RSA model of referential expression production and comprehension under noise.  Poster presented at the <i>Computational Psycholinguistics Meeting 2025 </i>. Utrecht, Netherlands. December 18-19, 2025.

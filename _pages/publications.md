@@ -29,7 +29,7 @@ Achimova, A., Musolino, J., Pasquinelli, R., & B. Landau. Logic and felicity in 
 
 **2025**
 
-Fröhlich, M., Jäger, G., & A. Achimova. Rethinking Ambiguity Across Species. <i>Neuroscience & Biobehavioral Reviews</i>, accepted.
+Fröhlich, M., Jäger, G., & A. Achimova. Rethinking Ambiguity Across Species. <i>Neuroscience & Biobehavioral Reviews</i>, 179, 106401. <a href ="https://doi.org/10.1016/j.neubiorev.2025.106401">open access</a>
 
 Achimova, A., Franke, M, and M.V. Butz. (2025). The alignment model of indirect communication.
 <a href="https://doi.org/10.1371/journal.pone.0323839">open access</a>
