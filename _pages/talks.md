@@ -18,8 +18,8 @@ author_profile: true
 ## 2026
 
 Achimova, A. Navigating controversial topics in interpersonal communication: an exper-
-imental study. <i> Symposium Talk presented at the 2026 Tagung experimentell arbeitender
-Psycholog:innen (TeaP 2026) <i>, Tübingen, Germany. March 18, 2026.
+imental study. <i> Symposium Talk presented at the Tagung experimentell arbeitender
+Psycholog:innen (TeaP) 2026 <i>. Tübingen, Germany. March 18, 2026.
 
 ## 2025
 
