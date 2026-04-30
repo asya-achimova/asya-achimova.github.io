@@ -20,7 +20,7 @@ permalink: /lab/news/
 **March**
 
 <figure style="float: left; margin: 0 15px 15px 0;">
-  <img src="http://asya-achimova.github.io/lab/TeaP_by_valentin_marquardt.jpeg" height="250" />
+  <img src="http://asya-achimova.github.io/lab/TeaP_by_valentin_marquardt.jpeg" style="width: 150px; height: 180px; object-fit: cover;"/>
   <figcaption style="text-align: right; font-size: 0.9em; color: #666;">Asya attended the TeaP 2026!</figcaption>
 </figure>
 <div style="clear: both;"></div>
