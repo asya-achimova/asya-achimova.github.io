@@ -18,3 +18,12 @@ main:
   - title: "Workshop"
     url: /workshop
 
+  - title: "Lab"
+    url: /lab/
+    children:
+    - title: "Home"
+      url: /lab/
+    - title: "Team"
+      url: /lab/team/
+    - title: "News"
+      url: /lab/news/
