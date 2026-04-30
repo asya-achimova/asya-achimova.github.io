@@ -14,10 +14,4 @@ permalink: /lab/
 </nav>
 
 
-<body>
-<div class="header_title">
-<h1> Home </h1>
-</div>
-<br>
-
 <p>Welcome to the lab! We investigate how background beliefs, perspectives, and attitudes affect the processes of speech production and interpretation, and how speakers and listeners infer each other's beliefs during communication.<p>
