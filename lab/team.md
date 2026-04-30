@@ -163,7 +163,7 @@ permalink: /lab/team/
 
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-<img src="http://asya-achimova.github.io/lab/Dogan.JPEG" style="width: 180px; height: 220px; object-fit: cover;" />/>
+<img src="http://asya-achimova.github.io/lab/Dogan.JPEG" style="width: 180px; height: 220px; object-fit: cover;" />
 
 
 <p>Elvan is lab manager and research assistant at the lab. She studies English Linguistics, with research interests in various disciplines in the linguistic field. </p>
