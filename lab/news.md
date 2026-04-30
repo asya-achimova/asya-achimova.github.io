@@ -14,9 +14,6 @@ permalink: /lab/news/
 <h2> News</h2>
 </div>
 
-<main>	
-<article>
-
 ## 2026
 
 **April**
@@ -27,7 +24,7 @@ permalink: /lab/news/
 **March**
 
 <figure style="float: left; margin: 0 15px 15px 0;">
-  <img src="TeaP_by_valentin_marquardt.jpeg" height="250" />
+  <img src="/lab/TeaP_by_valentin_marquardt.jpeg" height="250" />
   <figcaption style="text-align: right; font-size: 0.9em; color: #666;">Asya attended the TeaP 2026!</figcaption>
 </figure>
 <div style="clear: both;"></div>
