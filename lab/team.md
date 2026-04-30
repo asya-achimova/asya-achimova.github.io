@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Members"
+title: "Team"
 permalink: /lab/team/
 ---
 <html>
@@ -18,15 +18,12 @@ permalink: /lab/team/
 
 
 <div class="header_title">
-<h1> Socially-relevant Pragmatic Inference </h1>
-</div>
+<h2> Team </h2>
 </div>
 <br>
 
 <main>	
 <article>
-<h1>Team</h1>
-
 <div class="lab-wrapper">
 <body class="lab-list">
 
@@ -44,7 +41,7 @@ permalink: /lab/team/
 <br />
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-<img src="Achimova.jpeg" width="auto" height="250" />
+<img src="lab/Achimova.jpeg" width="auto" height="250" />
 
 
 <p>I’m interested in the ways speakers combine information from multiple sources to arrive at a coherent interpretation of utterances they read and hear. In particular, I investigate how their background beliefs about the structure of events affects language comprehension. I additionally ask how speakers factor in listener’s background beliefs in deciding how to describe events. Finally, I look at how communicative goals that go beyond pure information transfer shape human communication and inferences we draw about each other.</p>

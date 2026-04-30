@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Lab"
+title: "Socially-relevant Pragmatic Inference"
 permalink: /lab/
 ---
 <html>
@@ -16,15 +16,8 @@ permalink: /lab/
 
 <body>
 <div class="header_title">
-<h1> Socially-relevant Pragmatic Inference </h1>
-</div>
+<h1> Home </h1>
 </div>
 <br>
 
 <p>Welcome to the lab! We investigate how background beliefs, perspectives, and attitudes affect the processes of speech production and interpretation, and how speakers and listeners infer each other's beliefs during communication.<p>
-
-</body>
-
-
-
-</html>

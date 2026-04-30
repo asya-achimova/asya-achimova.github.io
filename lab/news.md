@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+title: "Socially-relevant Pragmatic Inference"
 permalink: /lab/news/
 ---
 
@@ -11,14 +11,11 @@ permalink: /lab/news/
 </nav>
 
 <div class="header_title">
-<h1> Socially-relevant Pragmatic Inference </h1>
+<h2> News</h2>
 </div>
-</div>
-<br>
 
 <main>	
 <article>
-<h1>News</h1>
 
 ## 2026
 
@@ -36,7 +33,3 @@ permalink: /lab/news/
 <div style="clear: both;"></div>
 
 
-</main>
-</body>
-
-</html>
