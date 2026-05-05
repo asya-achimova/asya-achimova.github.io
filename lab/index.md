@@ -21,6 +21,6 @@ permalink: /lab/
 
 <div style="text-align: center; margin: 50px 0;">
 
-  <img src="http://asya-achimova.github.io/lab/Logo_tubingen_russita3.jpg" style="width: 400px;" />
+  <img src="http://asya-achimova.github.io/images/Logo_tubingen_russita3.jpg" style="width: 400px;" />
 
 </div>
