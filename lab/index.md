@@ -15,3 +15,10 @@ permalink: /lab/
 
 
 <p>Welcome to the lab! We investigate how background beliefs, perspectives, and attitudes affect the processes of speech production and interpretation, and how speakers and listeners infer each other's beliefs during communication.<p>
+
+<br>
+<br>
+
+<div style="text-align: center; margin: 50px 0;">
+  <img src=""http://asya-achimova.github.io/images/Logo_tubingen_russita3.jpg" style="width: 400px;" />
+</div>
