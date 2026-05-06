@@ -9,6 +9,7 @@ permalink: /lab/news/
 <nav style="margin-bottom: 20px; border-bottom: 1px solid #e0e0e0; padding-bottom: 10px;">
   <a href="/lab/" style="text-decoration: none; margin-right: 20px; color: #333;">Home</a>
   <a href="/lab/team/" style="text-decoration: none; margin-right: 20px; color:#333;">Team</a>
+  <a href="/lab/projects/" style="text-decoration: none; margin-right: 20px; color: #333;">Projects</a>
   <a href="/lab/news/" style="text-decoration: none; color: #333;">News</a>
 </nav>
 

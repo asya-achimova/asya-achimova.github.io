@@ -8,9 +8,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /projects/
           
   - title: "CV"
     url: "http://asya-achimova.github.io/files/Achimova_cv.pdf"
@@ -25,5 +22,7 @@ main:
       url: /lab/
     - title: "Team"
       url: /lab/team/
+    - title: "Projects"
+      url: /lab/projects/
     - title: "News"
       url: /lab/news/
