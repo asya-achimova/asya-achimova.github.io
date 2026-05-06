@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Socially-relevant Pragmatic Inference"
 permalink: /lab/projects/
 ---
 
