@@ -57,7 +57,8 @@ img {
         <h1>Role of priors in disambiguation</h1>
         <p> This research project concerns how understanding language relies on background beliefs of the listener and whether these beliefs reveal themselves in the interpretations. I approach this topic from both experimental and modeling perspectives. Together with Gregory Scontras, Christian Stegemann-Philipps, Johannes Lohmann, and Martin Butz we developed a Rational Speech Act formalism to simulate the inference of priors upon observing a choice of an object in a signaling game.
         </p>
-        <p>We further investigate how shared beliefs can be discovered in the process of chooosing and interpreting ambiguous utterances. Here, we investigate the phenomenon of indiretness and show how indirect utterances allow speakers to navigate complex communication goals. This project aims to explore how communication contributes to maintaing of social bonds</p>
+        <p>We further investigate how shared beliefs can be discovered in the process of chooosing and interpreting ambiguous utterances. Here, we investigate the phenomenon of indiretness and show how indirect utterances allow speakers to navigate complex communication goals. This project aims to explore how communication contributes to maintaing of social bonds
+        </p>
       </div>
       <div class="image">
         <img src="http://asya-achimova.github.io/files/preference-trial.png">
@@ -69,6 +70,8 @@ img {
         <p> Speakers take into account a number of linguistic and cognitive factors when they choose how to refer to a previously mentioned entity. In this project, we investigate how speakers describe surprising and non-surprising events. To quantify surprise as a cognitive category, we first evaluate what expectations speakers have about possible event progressions. We can further manipulate prior expectations by training the participants possible interactions between novel characters. We then ask participants to create simple narratives and observe how they refer to different characters.
         </p>
         <p> We demonstrate that speakers choose more informative references when they describe surprising events. Is this caution warranted? What happens when listeners perceive such event descriptions in noisy environment? In a new collaboration project with Marjolein van Os, Vera Demberg, and Martin Butz we explore how participants weigh their prior expectations and the linguistic signal in the process of utterance comprehension.
+        </p>
+        <p>Involved PhD student: Ivan Rygaev
         </p>
       </div>
        <div class="image">
@@ -96,7 +99,7 @@ img {
         <h1>Verbal irony</h1>
         <p> Together with Prof. Gerhard Jäger we investigate what cognitive skills are necessary for understanding verbal irony. This project is part of a newly funded Collaborative Research Center <a href="https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/">Common Ground</a>  at the University of Tübingen. We turn to language development to find out to what extent Theory of Mind, cognitive control, and counterfactual reasoning predict irony comprehension. We also use tools from probabilistic modeling to build a computational model of irony comrehension. 
         </p>
-        <p> Please check open positions for this project at the <a href="https://linguistlist.org/issues/36/1935/">Linguist List</a>. Positions in other projects projects are available at the <a href="https://uni-tuebingen.de/en/university/careers/job-vacancies/">University of Tübingen job registry</a>
+        <p>Involved PhD students: Laura Friedrich & Gemma Seghi
         </p>
       </div>
       <div class="image">
