@@ -196,9 +196,69 @@ permalink: /lab/team/
 <br />
 <hr />
 <br />
+   
+
+<h3 style="margin: 0;">David Siecke</h3>
+<h4 style="margin: 0;">(B. Sc. Student)</h4>
+
+<br />
+<br />
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+<img src="http://asya-achimova.github.io/lab/Siecke.jpg" style="width: 180px; height: 220px; object-fit: cover;" />
+
+
+<p>David is writing his Bachelor's thesis in the lab. His work focuses on presupposition accommodation, how it is affected by different types of presupposition triggers and entailment-canceling environments, and whether there is individual variability in the preference for accepting either presupposed or asserted information. He studies Cognitive Science at Osnabrück University, with research interests in psycholinguistics and cognitive psychology.</p>
+</div>
+
+<br />
+<br />
+<hr />
+<br />
+
+
+<h3 style="margin: 0;">Antonia Roswitha Sophie Höfer</h3>
+<h4 style="margin: 0;">(M. Sc. Student)</h4>
+
+<br />
+<br />
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+<img src="http://asya-achimova.github.io/lab/Hoefer.jpg" style="width: 180px; height: 220px; object-fit: cover;" />
+
+
+<p>I am a master student in cognitive science with research interests in linguistics, reasoning as well as cognitive systems. I am currently investigating within my master thesis how beliefs about plausibility influence the perception of speech under noise.
+</p>
+</div>
+
+<br />
+<br />
+<hr />
+<br />
+
+
+<h3 style="margin: 0;">Jasmin Valerie O'Brien</h3>
+<h4 style="margin: 0;">(B. Sc. Student)</h4>
+
+<br />
+<br />
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+<img src="http://asya-achimova.github.io/lab/OBrien.jpeg" style="width: 180px; height: 220px; object-fit: cover;" />
+
+
+<p>I am a bachelor’s student working on my thesis with Asya Achimova at the University of Tübingen, where I investigate how people respond to controversial topics when confronted with another person’s opinion. I conduct experimental research with German- and English-speaking participants to explore whether individuals respond directly, indirectly, or oppositionally to topics that vary in perceived controversy. I am interested in social communication, interpersonal interaction, and the ways linguistic and cultural factors shape pragmatic behavior across different contexts.</p>
+</div>
+
+<br />
+<br />
+<hr />
+<br />
 
          
-
 </body>
 </div>
 
