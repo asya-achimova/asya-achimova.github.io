@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Socially-relevant Pragmatic Inference"
+title: "Pragmatic Inference Lab"
 permalink: /lab/news/
 ---
 
@@ -34,7 +34,7 @@ permalink: /lab/news/
        style="width: 100%; height: auto display: block;" />
 
   <figcaption style="text-align: center font-size: 0.9em; color: #666;">
-Asya at TeaP 2026
+Asya at TeaP 2026. Photography: Valentin Marquardt
   </figcaption>
 
 </figure>
