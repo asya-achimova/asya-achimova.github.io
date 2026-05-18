@@ -15,14 +15,18 @@ permalink: /lab/news/
 
 ## 2026
 
+**May**
+
+- Paula Rubio-Fernández (MPI Nijmegen & CNRS) visited the lab. We discussed our projects on irony and a new project on prosodic annotation of the Monsters data.
+
 **April**
-- Welcome to our team, Natalia!
+- Natalia Krasikova joined the Pragmatic inference lab. She will be working on the Presuppositions project. Welcome to our team, Natalia!
 
 <br>
 
 **March**
 
-<figure style="float: left; margin: 0 15px 15px 0; width: 200px;">
+<figure style="float: left; margin: 0 15px 15px 0; width: 400px;">
 
   <img src="http://asya-achimova.github.io/lab/TeaP_by_valentin_marquardt.jpeg"
        style="width: 100%; height: auto display: block;" />
