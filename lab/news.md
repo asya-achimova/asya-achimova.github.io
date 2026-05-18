@@ -20,11 +20,13 @@ permalink: /lab/news/
 - Paula Rubio-Fernández (MPI Nijmegen & CNRS) visited the lab. We discussed our projects on irony and a new project on prosodic annotation of the Monsters data.
 
 **April**
-- Natalia Krasikova joined the Pragmatic inference lab. She will be working on the Presuppositions project. Welcome to our team, Natalia!
+- Natalia Krasikova joined the lab, she will be working on the Presuppositions project. Welcome to our team, Natalia!
 
 <br>
 
 **March**
+
+-  Asya organized a symposium "Communication strategies in the age of polarization" at [Teap 2026](https://coms.app/teap26/welcome.html)
 
 <figure style="float: left; margin: 0 15px 15px 0; width: 400px;">
 
@@ -32,7 +34,7 @@ permalink: /lab/news/
        style="width: 100%; height: auto display: block;" />
 
   <figcaption style="text-align: center font-size: 0.9em; color: #666;">
-Asya attended TeaP 2026!
+Asya at TeaP 2026
   </figcaption>
 
 </figure>
