@@ -74,13 +74,20 @@ permalink: /lab/team/
 <br />
 <br />
 
-<!-- <div style="display: flex; align-items: flex-start; gap: 15px;">
-<img src="" width="auto" height="250" />
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+<img src="Rygaev.png" width="auto" height="250" />
 
 
-<p>About Ivan.</p>
-</div> -->
+<p>My research lies at the intersection of experimental and computational pragmatics. I investigate how prior expectations about the predictability of events shape the production and comprehension of referring expressions, as well as presupposition projection. Beyond reference, my research interests include philosophy of language and mind, formal dynamic semantics (especially DRT), mental states and propositional attitudes. I also have a strong background in software development, automated logical reasoning, the Semantic Web, knowledge graphs, and natural language processing.</p>
+</div>
 
+<br />
+<!-- Links --->
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+
+<a href="https://irygaev.github.io/"><img src="/lab/logos/github.jpg" width="20" height="20" /></a>
+</div>
 
 <br />
 <br />
