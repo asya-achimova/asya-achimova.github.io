@@ -15,17 +15,16 @@ permalink: /lab/news/
 
 ## 2026
 
-**May**
+**June**
+- Rosario Tomasello (FU Berlin) visited the lab and gave a talk at the [Cognitive Science colloquium](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/zentren/cognitive-science-in-tuebingen/colloquia/). Gemma and Laura discussed their ideas about irony understanding and what kind of neural networks it involves.
 
+**May**
 - Paula Rubio-Fernández (MPI Nijmegen & CNRS) visited the lab. We discussed our projects on irony and a new project on prosodic annotation of the Monsters data.
 
 **April**
 - Natalia Krasikova joined the lab, she will be working on the Presuppositions project. Welcome to our team, Natalia!
 
-<br>
-
 **March**
-
 -  Asya organized a symposium "Communication strategies in the age of polarization" at [Teap 2026](https://coms.app/teap26/welcome.html)
 
 <figure style="float: left; margin: 0 15px 15px 0; width: 400px;">
