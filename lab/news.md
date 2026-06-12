@@ -16,6 +16,8 @@ permalink: /lab/news/
 ## 2026
 
 **June**
+- Asya and Jasmin presented their poster "Conflict-Sensitive Communication: How German and American Speakers Navigate Controversial Topics” at the Workshop [Modeling Common Ground Across Divides](https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/events/modeling-common-ground-across-divides/). The poster was co-authored with Martin Butz and Dirk Wildgruber (all University of Tübingen).
+
 - Rosario Tomasello (FU Berlin) visited the lab and gave a talk at the [Cognitive Science colloquium](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/zentren/cognitive-science-in-tuebingen/colloquia/). Gemma and Laura discussed their ideas about irony understanding and what kind of neural networks it involves.
 
 **May**
