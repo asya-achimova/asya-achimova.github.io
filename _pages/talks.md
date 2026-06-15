@@ -19,9 +19,7 @@ author_profile: true
 
 Achimova, A., Brian, J., Butz, M.V., & D. Wildgruber. Conflict-Sensitive Communication: How German and American Speakers Navigate Controversial Topics. Poster presented at the Workshop “Modeling Common Ground Across Divides”. Tübingen, Germany. June 11, 2026
 
-Achimova, A. Navigating controversial topics in interpersonal communication: an exper-
-imental study. <i> Symposium Talk presented at the Tagung experimentell arbeitender
-Psycholog:innen (TeaP) 2026 <i>. Tübingen, Germany. March 18, 2026.
+Achimova, A. Navigating controversial topics in interpersonal communication: an experimental study. Symposium Talk presented at the <i>Tagung experimentell arbeitender Psycholog:innen (TeaP) 2026 <i>. Tübingen, Germany. March 18, 2026.
 
 ## 2025
 
