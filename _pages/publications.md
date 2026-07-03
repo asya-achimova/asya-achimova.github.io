@@ -24,8 +24,9 @@ Resolving wh-quantifier ambiguities: Integrating theoretical and experimental pe
 
 Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. Event plausibility modulates production and comprehension of referential expressions. <i>Under review</i>
 
-Achimova, A., Musolino, J., Pasquinelli, R., & B. Landau. Logic and felicity in the face of intellectual disability: Linguistic scales and Williams Syndrome. <i>Under review</i>
+**2026**
 
+Achimova, A., Musolino, J., Pasquinelli, R., & B. Landau. Logic and felicity in the face of intellectual disability: Linguistic scales and Williams Syndrome. To appear in <i>Language Learning and Development</i>.
 
 **2025**
 
