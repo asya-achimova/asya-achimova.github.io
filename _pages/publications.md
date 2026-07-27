@@ -26,11 +26,11 @@ Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. Event plausibility modulates
 
 **2026**
 
-Achimova, A., Musolino, J., Pasquinelli, R., & B. Landau. Logic and felicity in the face of intellectual disability: Linguistic scales and Williams Syndrome. To appear in <i>Language Learning and Development</i>.
+Achimova, A., Musolino, J., Pasquinelli, R., & B. Landau. (2026). Logic and felicity in the face of intellectual disability: Linguistic scales and Williams Syndrome. <i>Language Learning and Development</i>, 1-30. <a href ="https://doi.org/10.1080/15475441.2026.2702526">open access</a>
 
 **2025**
 
-Fröhlich, M., Jäger, G., & A. Achimova. Rethinking Ambiguity Across Species. <i>Neuroscience & Biobehavioral Reviews</i>, 179, 106401. <a href ="https://doi.org/10.1016/j.neubiorev.2025.106401">open access</a>
+Fröhlich, M., Jäger, G., & A. Achimova. (2025). Rethinking Ambiguity Across Species. <i>Neuroscience & Biobehavioral Reviews</i>, 179, 106401. <a href ="https://doi.org/10.1016/j.neubiorev.2025.106401">open access</a>
 
 Achimova, A., Franke, M, and M.V. Butz. (2025). The alignment model of indirect communication.
 <a href="https://doi.org/10.1371/journal.pone.0323839">open access</a>
