@@ -15,14 +15,14 @@ permalink: /lab/news/
 
 ## 2026
 **August**
-- Ivan and Asya presented "Effect of surprisal on the form and prosody of referring expressions" at the CORE Project Workshop, [ESSLLI 2026](https://www.upf.edu/web/glif/esslli-workshop/program). The poster was co-authored with Güliz Günes (University of Tübingen).
+- Ivan, Güliz Günes, and Asya presented "Effect of surprisal on the form and prosody of referring expressions" at the CORE Project Workshop, [ESSLLI 2026](https://www.upf.edu/web/glif/esslli-workshop/program).
 
 **June**
 - Asya gave a keynote presentation at the retreat of the TAM cluster, titled "Looking ahead, looking back: Prediction and inference in language understanding".
 
 - Asya and Jasmin presented their poster "Conflict-Sensitive Communication: How German and American Speakers Navigate Controversial Topics” at the Workshop [Modeling Common Ground Across Divides](https://uni-tuebingen.de/en/research/core-research/collaborative-research-centers/crc-common-ground/events/modeling-common-ground-across-divides/). The poster was co-authored with Martin Butz and Dirk Wildgruber (all University of Tübingen).
 
-- Rosario Tomasello (FU Berlin) visited the lab and gave a talk at the [Cognitive Science colloquium](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/zentren/cognitive-science-in-tuebingen/colloquia/). Gemma and Laura discussed their ideas about irony understanding and what kind of neural networks it involves.
+- Rosario Tomasello (FU Berlin) visited the lab and gave a talk at the [Cognitive Science Colloquium](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/zentren/cognitive-science-in-tuebingen/colloquia/). Gemma and Laura discussed their ideas about irony understanding and what kind of neural networks it involves.
 
 **May**
 - Paula Rubio-Fernández (MPI Nijmegen & CNRS) visited the lab. We discussed our projects on irony and a new project on prosodic annotation of the Monsters data.
@@ -31,7 +31,7 @@ permalink: /lab/news/
 - Natalia Krasikova joined the lab, she will be working on the Presuppositions project. Welcome to our team, Natalia!
 
 **March**
--  Asya organized a symposium "Communication strategies in the age of polarization" at [Teap 2026](https://coms.app/teap26/welcome.html)
+-  Asya organized a symposium "Communication strategies in the age of polarization" at [TeaP 2026](https://coms.app/teap26/welcome.html)
 
 <figure style="float: left; margin: 0 15px 15px 0; width: 400px;">
 
