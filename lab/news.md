@@ -14,6 +14,8 @@ permalink: /lab/news/
 </nav>
 
 ## 2026
+**August**
+- Ivan and Asya presented "Effect of surprisal on the form and prosody of referring expressions" at the CORE Project Workshop, [ESSLLI 2026](https://www.upf.edu/web/glif/esslli-workshop/program). The poster was co-authored with Güliz Günes (University of Tübingen).
 
 **June**
 - Asya gave a keynote presentation at the retreat of the TAM cluster, titled "Looking ahead, looking back: Prediction and inference in language understanding".
