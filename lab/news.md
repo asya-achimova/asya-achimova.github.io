@@ -16,7 +16,7 @@ permalink: /lab/news/
 ## 2026
 
 **September**
-Asya presented a poster with the new results of the implicit causality project, and Gemma and Laura shared their work on perspective taking at [AMLaP 2026](https://www.uni-saarland.de/en/fakultaet-p/amlap/program.html) in Saabrücken.
+- Asya presented a poster with the new results of the implicit causality project, and Gemma and Laura shared their work on perspective taking at [AMLaP 2026](https://www.uni-saarland.de/en/fakultaet-p/amlap/program.html) in Saabrücken.
 
 
 <figure style="float: left; margin: 0 15px 15px 0; width: 300px;">
@@ -40,6 +40,8 @@ Gemma presenting her poster
 
 </figure>
 
+<div style="clear: both;"></div>
+
 **August**
 - Ivan, Güliz Günes, and Asya presented "Effect of surprisal on the form and prosody of referring expressions" at the CORE Project Workshop, [ESSLLI 2026](https://www.upf.edu/web/glif/esslli-workshop/program).
 
@@ -53,6 +55,8 @@ Tübingen linguists at ESSLLI 2026 in Prague
   </figcaption>
 
 </figure>
+
+<div style="clear: both;"></div>
 
 **June**
 - Asya gave a keynote presentation at the retreat of the TAM cluster, titled "Looking ahead, looking back: Prediction and inference in language understanding".
