@@ -16,7 +16,7 @@ permalink: /lab/news/
 ## 2026
 
 **September**
-- Asya presented a poster with the new results of the implicit causality project, and Gemma and Laura shared their work on perspective taking at [AMLaP 2026](https://www.uni-saarland.de/en/fakultaet-p/amlap/program.html) in Saabrücken.
+- Asya presented a poster with the new results of the implicit causality project, and Gemma and Laura shared their work on perspective taking at [AMLaP 2026](https://www.uni-saarland.de/en/fakultaet-p/amlap/program.html) in Saarbrücken.
 
 
 <figure style="float: left; margin: 0 15px 15px 0; width: 300px;">
