@@ -16,6 +16,8 @@ permalink: /lab/news/
 ## 2026
 
 **September**
+- Güliz Günes and Asya presented "Intonational correlates of event plausibility,” and Gemma, Laura, Gerhard Jäger, and Asya presented their poster "Do Children Always Need Theory of Mind to Understand Irony? The Role of Common Ground" at [XPrag 2026](https://xpragit2026.weebly.com/program.html)
+
 - Asya presented a poster with the new results of the implicit causality project, and Gemma and Laura shared their work on perspective taking at [AMLaP 2026](https://www.uni-saarland.de/en/fakultaet-p/amlap/program.html) in Saarbrücken.
 
 
