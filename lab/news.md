@@ -15,8 +15,15 @@ permalink: /lab/news/
 
 ## 2026
 
+**October**
+
+- Natalia, Peter König, and Asya presented their poster "Credibility of presupposed and asserted information", and Ivan presented his poster "Probabilistic accounts of the proviso problem: experimental evidence" at [Linguistic Evidence 2026](https://www.ids-mannheim.de/gra/aktuelles/linguistic-evidence-2026/program/poster-presentations/).
+
 **September**
-- Güliz Günes and Asya presented "Intonational correlates of event plausibility,” and Gemma, Laura, Gerhard Jäger, and Asya presented their poster "Do Children Always Need Theory of Mind to Understand Irony? The Role of Common Ground" at [XPrag 2026](https://xpragit2026.weebly.com/program.html)
+
+- Asya presented "Causal Structure of Events Affects the Processing of Event Descriptions" at the [Learning and Using Linguistic Structure: Computational and Experimental Perspectives](https://linguistics.unc.edu/event/workshop/) Workshop, The University of North Carolina at Chapel Hill.
+
+- Güliz Günes and Asya presented "Intonational correlates of event plausibility,” and Gemma, Laura, Gerhard Jäger, and Asya presented their poster "Do Children Always Need Theory of Mind to Understand Irony? The Role of Common Ground" at [XPrag 2026](https://xpragit2026.weebly.com/program.html).
 
 - Asya presented a poster with the new results of the implicit causality project, and Gemma and Laura shared their work on perspective taking at [AMLaP 2026](https://www.uni-saarland.de/en/fakultaet-p/amlap/program.html) in Saarbrücken.
 
@@ -27,7 +34,7 @@ permalink: /lab/news/
        style="width: 100%; height: auto display: block;" />
 
   <figcaption style="text-align: center font-size: 0.9em; color: #666;">
-Implicit causality poster
+Implicit causality poster.
   </figcaption>
 
 </figure>
@@ -37,7 +44,7 @@ Implicit causality poster
        style="width: 100%; height: auto display: block;" />
 
   <figcaption style="text-align: center font-size: 0.9em; color: #666;">
-Gemma presenting her poster
+Gemma presenting her poster.
   </figcaption>
 
 </figure>
@@ -53,7 +60,7 @@ Gemma presenting her poster
        style="width: 100%; height: auto display: block;" />
 
   <figcaption style="text-align: center font-size: 0.9em; color: #666;">
-Tübingen linguists at ESSLLI 2026 in Prague
+Tübingen linguists at ESSLLI 2026 in Prague.
   </figcaption>
 
 </figure>
@@ -74,7 +81,7 @@ Tübingen linguists at ESSLLI 2026 in Prague
 - Natalia Krasikova joined the lab, she will be working on the Presuppositions project. Welcome to our team, Natalia!
 
 **March**
--  Asya organized a symposium "Communication strategies in the age of polarization" at [TeaP 2026](https://coms.app/teap26/welcome.html)
+-  Asya organized a symposium "Communication strategies in the age of polarization" at [TeaP 2026](https://coms.app/teap26/welcome.html).
 
 <figure style="float: left; margin: 0 15px 15px 0; width: 400px;">
 
@@ -82,7 +89,7 @@ Tübingen linguists at ESSLLI 2026 in Prague
        style="width: 100%; height: auto display: block;" />
 
   <figcaption style="text-align: center font-size: 0.9em; color: #666;">
-Asya at TeaP 2026. Photography: Valentin Marquardt
+Asya at TeaP 2026. Photography: Valentin Marquardt.
   </figcaption>
 
 </figure>
