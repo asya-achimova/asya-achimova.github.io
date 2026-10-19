@@ -17,11 +17,23 @@ author_profile: true
 
 ## 2026
 
-Achimova, A. Looking ahead, looking back: Prediction and inference in language understanding. Keynote presentation. _The Adaptive Mind_. Schloss Rauischholzhausen, Germany. June 17, 2026.
+Krasikova, N., König, P., & A. Achimova. Credibility of presupposed and asserted information. Poster presented at <i>Linguistic Evidence 2026</i>. Mannheim, Germany. October 16, 2026. 
+
+Achimova, A. Causal Structure of Events Affects the Processing of Event Descriptions. Talk presented at the <i>Learning and Using Linguistic Structure: Computational and Experimental Perspectives</i> Workshop. The University of North Carolina at Chapel Hill, USA. September 25, 2026.
+
+Günes, G., & A. Achimova. Intonational correlates of event plausibility. Presentation at <i>XPrag 2026</i>. Genoa, Italy. September 25, 2026. 
+
+Seghi, G., Friedrich, L., Achimova, A., & G. Jäger. A Hierarchical RSA Model of Perspective-Taking: Dissociating Selective Attention to Common Ground from Theory of Mind Reasoning. Poster presented at <i>AMLaP 2026</i>. Universität des Saarlandes, Germany. September 3, 2026.
+
+Achimova, A., Dietrich, S., Altschuler, D., Rolke, B., & Martin V. Butz. Implicit Causality Revision is Costly but Delayed: Evidence from Self-paced Reading. Poster presented at <i>AMLaP 2026</i>. Universität des Saarlandes, Germany. September 2, 2026. 
+
+Rygaev, I., Günes, G., & A. Achimova. Effect of surprisal on the form and prosody of referring expressions. Talk presented at the <i>CORE Project</i> Workshop, ESSLLI 2026. Prague, Czech Republic. August 4, 2026.
+
+Achimova, A. Looking ahead, looking back: Prediction and inference in language understanding. Keynote presentation. <i>The Adaptive Mind</i>. Schloss Rauischholzhausen, Germany. June 17, 2026.
 
 Achimova, A., Brian, J., Butz, M.V., & D. Wildgruber. Conflict-Sensitive Communication: How German and American Speakers Navigate Controversial Topics. Poster presented at the Workshop “Modeling Common Ground Across Divides”. Tübingen, Germany. June 11, 2026
 
-Achimova, A. Navigating controversial topics in interpersonal communication: an experimental study. Symposium Talk presented at the <i>Tagung experimentell arbeitender Psycholog:innen (TeaP) 2026 <i>. Tübingen, Germany. March 18, 2026.
+Achimova, A. Navigating controversial topics in interpersonal communication: an experimental study. Symposium Talk presented at the <i>Tagung experimentell arbeitender Psycholog:innen (TeaP) 2026</i>. Tübingen, Germany. March 18, 2026.
 
 ## 2025
 
