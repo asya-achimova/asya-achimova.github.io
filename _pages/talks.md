@@ -23,6 +23,8 @@ Achimova, A. Causal Structure of Events Affects the Processing of Event Descript
 
 Günes, G., & A. Achimova. Intonational correlates of event plausibility. Presentation at <i>XPrag 2026</i>. Genoa, Italy. September 25, 2026. 
 
+Friedrich, L., Seghi, G., Jäger, G. \& A. Achimova. Do Children Always Need Theory of Mind to Understand Irony? The Role of Common Ground. Poster presented at <i>XPrag 2026</i>. Genoa, Italy. September 24, 2026.
+
 Seghi, G., Friedrich, L., Achimova, A., & G. Jäger. A Hierarchical RSA Model of Perspective-Taking: Dissociating Selective Attention to Common Ground from Theory of Mind Reasoning. Poster presented at <i>AMLaP 2026</i>. Universität des Saarlandes, Germany. September 3, 2026.
 
 Achimova, A., Dietrich, S., Altschuler, D., Rolke, B., & Martin V. Butz. Implicit Causality Revision is Costly but Delayed: Evidence from Self-paced Reading. Poster presented at <i>AMLaP 2026</i>. Universität des Saarlandes, Germany. September 2, 2026. 
@@ -31,7 +33,7 @@ Rygaev, I., Günes, G., & A. Achimova. Effect of surprisal on the form and proso
 
 Achimova, A. Looking ahead, looking back: Prediction and inference in language understanding. Keynote presentation. <i>The Adaptive Mind</i>. Schloss Rauischholzhausen, Germany. June 17, 2026.
 
-Achimova, A., Brian, J., Butz, M.V., & D. Wildgruber. Conflict-Sensitive Communication: How German and American Speakers Navigate Controversial Topics. Poster presented at the Workshop “Modeling Common Ground Across Divides”. Tübingen, Germany. June 11, 2026
+Achimova, A., Brian, J., Butz, M.V., & D. Wildgruber. Conflict-Sensitive Communication: How German and American Speakers Navigate Controversial Topics. Poster presented at the Workshop “Modeling Common Ground Across Divides”. Tübingen, Germany. June 11, 2026.
 
 Achimova, A. Navigating controversial topics in interpersonal communication: an experimental study. Symposium Talk presented at the <i>Tagung experimentell arbeitender Psycholog:innen (TeaP) 2026</i>. Tübingen, Germany. March 18, 2026.
 
