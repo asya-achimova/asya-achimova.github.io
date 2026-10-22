@@ -55,7 +55,7 @@ University of North Carolina.
 
 <figure style="float: left; margin: 0 15px 15px 0; width: 300px;">
 
-  <img src="http://asya-achimova.github.io/lab/xprag26.jpeg"
+  <img src="http://asya-achimova.github.io/lab/xprag26.jpg"
        style="width: 100%; height: auto display: block;" />
 
   <figcaption style="text-align: center font-size: 0.9em; color: #666;">
@@ -65,7 +65,7 @@ Genoa, Italy.
 </figure>
 <figure style="float: left; margin: 0 15px 15px 0; width: 300px;">
 
-  <img src="http://asya-achimova.github.io/lab/laura_poster_xprag.jpeg"
+  <img src="http://asya-achimova.github.io/lab/laura_poster_xprag.jpg"
        style="width: 100%; height: auto display: block;" />
 
   <figcaption style="text-align: center font-size: 0.9em; color: #666;">
