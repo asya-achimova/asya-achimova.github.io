@@ -22,7 +22,10 @@ Resolving wh-quantifier ambiguities: Integrating theoretical and experimental pe
 
 **Manuscripts**
 
-Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. Event plausibility modulates production and comprehension of referential expressions. <i>Under review</i>
+**2027**
+
+Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. (2027). Event plausibility modulates production and comprehension of referential expressions. <i>Journal of Memory and Language</i>, 152, 104820. <a href ="https://www.sciencedirect.com/science/article/pii/S0749596X26000902?via%3Dihub">open access</a>
+<a href="http://asya-achimova.github.io/files/2027_ Rygaev_et_al_Event_predictability_modulates_production.pdf">pdf</a>
 
 **2026**
 
