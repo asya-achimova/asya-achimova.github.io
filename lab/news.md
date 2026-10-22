@@ -17,13 +17,64 @@ permalink: /lab/news/
 
 **October**
 
+- Ivan's paper got published! Check out "Event plausibility modulates production and comprehension of referential expressions.", co-authored with Vera Demberg, Martin V. Butz and Asya Achimova: [link](https://www.sciencedirect.com/science/article/pii/S0749596X26000902?via%3Dihub).
+
 - Natalia, Peter König, and Asya presented their poster "Credibility of presupposed and asserted information", and Ivan presented his poster "Probabilistic accounts of the proviso problem: experimental evidence" at [Linguistic Evidence 2026](https://www.ids-mannheim.de/gra/aktuelles/linguistic-evidence-2026/program/poster-presentations/).
+
+<figure style="float: left; margin: 0 15px 15px 0; width: 400px;">
+
+  <img src="http://asya-achimova.github.io/lab/ivan_poster_linguevid.jpeg"
+       style="width: 100%; height: auto display: block;" />
+
+  <figcaption style="text-align: center font-size: 0.9em; color: #666;">
+Ivan presenting his poster.
+  </figcaption>
+
+</figure>
+
+<div style="clear: both;"></div>
 
 **September**
 
 - Asya presented "Causal Structure of Events Affects the Processing of Event Descriptions" at the [Learning and Using Linguistic Structure: Computational and Experimental Perspectives](https://linguistics.unc.edu/event/workshop/) Workshop, The University of North Carolina at Chapel Hill.
 
-- Güliz Günes and Asya presented "Intonational correlates of event plausibility,” and Gemma, Laura, Gerhard Jäger, and Asya presented their poster "Do Children Always Need Theory of Mind to Understand Irony? The Role of Common Ground" at [XPrag 2026](https://xpragit2026.weebly.com/program.html).
+<figure style="float: left; margin: 0 15px 15px 0; width: 400px;">
+
+  <img src="http://asya-achimova.github.io/lab/unc2026.jpeg"
+       style="width: 100%; height: auto display: block;" />
+
+  <figcaption style="text-align: center font-size: 0.9em; color: #666;">
+University of North Carolina.
+  </figcaption>
+
+</figure>
+
+<div style="clear: both;"></div>
+
+- Güliz Günes and Asya presented "Intonational correlates of event plausibility,” and Laura, Gemma, Gerhard Jäger, and Asya presented their poster "Do Children Always Need Theory of Mind to Understand Irony? The Role of Common Ground" at [XPrag 2026](https://xpragit2026.weebly.com/program.html).
+
+<figure style="float: left; margin: 0 15px 15px 0; width: 300px;">
+
+  <img src="http://asya-achimova.github.io/lab/xprag26.jpeg"
+       style="width: 100%; height: auto display: block;" />
+
+  <figcaption style="text-align: center font-size: 0.9em; color: #666;">
+Genoa, Italy.
+  </figcaption>
+
+</figure>
+<figure style="float: left; margin: 0 15px 15px 0; width: 300px;">
+
+  <img src="http://asya-achimova.github.io/lab/laura_poster_xprag.jpeg"
+       style="width: 100%; height: auto display: block;" />
+
+  <figcaption style="text-align: center font-size: 0.9em; color: #666;">
+Laura presenting her poster.
+  </figcaption>
+
+</figure>
+
+<div style="clear: both;"></div>
 
 - Asya presented a poster with the new results of the implicit causality project, and Gemma and Laura shared their work on perspective taking at [AMLaP 2026](https://www.uni-saarland.de/en/fakultaet-p/amlap/program.html) in Saarbrücken.
 
