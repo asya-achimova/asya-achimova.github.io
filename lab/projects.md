@@ -77,7 +77,7 @@ img {
         </p>
       </div>
        <div class="image">
-        <img src="http://asya-achimova.github.io/files/collision_fallback_training2_setup.png">
+        <img src="http://asya-achimova.github.io/lab/abstract_monsters.jpg">
       </div>
     </div>
     <div class="container">

@@ -23,7 +23,7 @@ Achimova, A. Causal Structure of Events Affects the Processing of Event Descript
 
 Günes, G., & A. Achimova. Intonational correlates of event plausibility. Presentation at <i>XPrag 2026</i>. Genoa, Italy. September 25, 2026. 
 
-Friedrich, L., Seghi, G., Jäger, G. \& A. Achimova. Do Children Always Need Theory of Mind to Understand Irony? The Role of Common Ground. Poster presented at <i>XPrag 2026</i>. Genoa, Italy. September 24, 2026.
+Friedrich, L., Seghi, G., Jäger, G. & A. Achimova. Do Children Always Need Theory of Mind to Understand Irony? The Role of Common Ground. Poster presented at <i>XPrag 2026</i>. Genoa, Italy. September 24, 2026.
 
 Seghi, G., Friedrich, L., Achimova, A., & G. Jäger. A Hierarchical RSA Model of Perspective-Taking: Dissociating Selective Attention to Common Ground from Theory of Mind Reasoning. Poster presented at <i>AMLaP 2026</i>. Universität des Saarlandes, Germany. September 3, 2026.
 

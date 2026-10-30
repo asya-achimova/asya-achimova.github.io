@@ -22,9 +22,19 @@ Resolving wh-quantifier ambiguities: Integrating theoretical and experimental pe
 
 **Manuscripts**
 
+** In preparation **
+
+Achimova, A., Dietrich, S., Altshuler, D., Rolke, B., & M.V. Butz. Not surprised! Partial incrementality in the processing of implicit causality.
+
+Achimova, A. & D. Wildgruber. Conflict-Sensitive Communication: How German and American Speakers Navigate Controversial Topics.
+
+Krasikova, N., Harris, D., König, P., & A. Achimova. Credibility of inference.
+
+Rygaev, I., Butz, M.V., & A. Achimova. Surprising events and overt reference: A noisy-channel RSA model.
+
 **2027**
 
-Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. (2027). Event plausibility modulates production and comprehension of referential expressions. <i>Journal of Memory and Language</i>, 152, 104820. <a href ="https://www.sciencedirect.com/science/article/pii/S0749596X26000902?via%3Dihub">open access</a>
+Rygaev, I., Demberg, V., Butz, M.V., & A. Achimova. (2027). Event predictability modulates production and comprehension of referring expressions. <i>Journal of Memory and Language</i>, 152, 104820. <a href ="https://www.sciencedirect.com/science/article/pii/S0749596X26000902?via%3Dihub">open access</a>
 <a href="http://asya-achimova.github.io/files/2027_ Rygaev_et_al_Event_predictability_modulates_production.pdf">pdf</a>
 
 **2026**
