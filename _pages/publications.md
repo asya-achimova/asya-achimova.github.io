@@ -20,9 +20,7 @@ Dissertation
 Resolving wh-quantifier ambiguities: Integrating theoretical and experimental perspectives. May 2014.
 <a href="http://asya-achimova.github.io/files/Achimova_Dissertation_2014.pdf">pdf</a>
 
-**Manuscripts**
-
-** In preparation **
+**Manuscripts (in preparation)**
 
 Achimova, A., Dietrich, S., Altshuler, D., Rolke, B., & M.V. Butz. Not surprised! Partial incrementality in the processing of implicit causality.
 
@@ -31,6 +29,8 @@ Achimova, A. & D. Wildgruber. Conflict-Sensitive Communication: How German and A
 Krasikova, N., Harris, D., König, P., & A. Achimova. Credibility of inference.
 
 Rygaev, I., Butz, M.V., & A. Achimova. Surprising events and overt reference: A noisy-channel RSA model.
+
+Güneș, G. & A. Achimova. Intonational correlates of event plausibility.
 
 **2027**
 
