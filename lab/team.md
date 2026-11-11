@@ -14,6 +14,7 @@ permalink: /lab/team/
   <a href="/lab/team/" style="text-decoration: none; margin-right: 20px; color:#333;">Team</a>
   <a href="/lab/projects/" style="text-decoration: none; margin-right: 20px; color: #333;">Projects</a>
   <a href="/lab/news/" style="text-decoration: none; color: #333;">News</a>
+  <a href="/lab/parent-information/" style="text-decoration: none; color: #333;">Parent Information</a>
 </nav>
 
 <body>

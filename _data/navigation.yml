@@ -26,3 +26,5 @@ main:
       url: /lab/projects/
     - title: "News"
       url: /lab/news/
+    - title: "Parent Information"
+      url: /lab/parent-information/
