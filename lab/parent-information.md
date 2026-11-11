@@ -1,7 +1,6 @@
-
 ---
 layout: archive
-title: "Parent Information"
+title: "Pragmatic Inference Lab"
 permalink: /lab/parent-information/
 ---
 
